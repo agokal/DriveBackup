@@ -1,0 +1,165 @@
+.AB - Applix Builder filenot specified
+.AGI - Asterisk Gateway Interface Filenot specified
+.AGP - ASPMaker Project Filenot specified
+.AHK - Autohotkey Script FileUncommon
+.ALX - ActiveX Layout ControlVery Common
+.AM4 - AutoPlay Media Studio 4 Project Filenot specified
+.AM5 - AutoPlay Media Studio 5 Project Filenot specified
+.AM6 - AutoPlay Media Studio 6 Projectnot specified
+.AM7 - AutoPlay Media Studio 7 ProjectAverage
+.APPLET - Eclipse java.policy.applet FileUncommon
+.APPXSYM - Windows 8 Application Package FileAverage
+.APPXUPLOAD - Windows 8 Application PackageAverage
+.ARSC - Android Compressed Resource Package FileCommon
+.ARTPROJ - Artifacts ProjectAverage
+.ARX - AutoCAD Runtime Extention FileUncommon
+.AS - Adobe Flash External ActionScript FileCommon
+.AS3PROJ - FlashDevelop (v3) ActionScript Project FileUncommon
+.ASMX - ASP.NET Webservice SourceCommon
+.AU3 - AutoIt v3 Scriptnot specified
+.BBC - BBC BASIC Data Filenot specified
+.BCP - Borland C++ MakefileAverage
+.BET - BETA Source FileAverage
+.BPG - Borland Project Groupnot specified
+.BPR - Borland project fileAverage
+.BSV - Bluespec SystemVerilognot specified
+.C - C/C++ Source CodeCommon
+.C# - Microsoft C# Filenot specified
+.CC - C++ Source codeAverage
+.CLASS - Java classVery Common
+.CP - XCode C++ SourceVery Common
+.CPP - C++ Source CodeCommon
+.CS - Visual C# .NET class fileCommon
+.CSPROJ - Visual Studio C# Project FileCommon
+.CTL - Visual Basic UserControl FileAverage
+.CTP - CakePHP TemplateAverage
+.CTS - Audio Script FileAverage
+.CTX - Visual Basic UserControl Binary FileAverage
+.DCU - Delphi compiled unitnot specified
+.DEF - SmartWare II Data Filenot specified
+.DEX - Android Program FileAverage
+.DISCO - .NET Web Service Discovery FileAverage
+.DPJ - Borland Delphi ProjectAverage
+.DPR - C++ Project HeaderAverage
+.DSN - ODBC Data SourceAverage
+.DSP - Microsoft Developer Studio projectAverage
+.EPL - Eltron Printer Language FileUncommon
+.EQL - Embedded SQL Filenot specified
+.F77 - FORTRAN 77 (F77) Source code filenot specified
+.FBP - wxFormBuilder Projectnot specified
+.FL - Adobe Flash Project FileCommon
+.FLA - Flash Movie Source FileCommon
+.FPA - Front Panel Encrypted Order Filenot specified
+.FPP - Fortran Source Codenot specified
+.FPP - Front Panel Projectnot specified
+.FRAMEWORK - Mac OS X Application Frameworknot specified
+.FSPROJ - FireStarter Project Filenot specified
+.GLOBAL - Global Makefilenot specified
+.GMD - Game Maker Program Codenot specified
+.GMK - Game Maker 7 Filenot specified
+.GMO - GNU Machine ObjectAverage
+.GORM - Gorm Interface Resource Filenot specified
+.GS3 - GameStarter Filenot specified
+.HAS - Haskell Scriptnot specified
+.HDMP - Windows Heap DumpCommon
+.ICML - Adobe InDesign InCopy Markup Language FileCommon
+.INC - Include Filenot specified
+.ISC - Xilinx Device Configuration Filenot specified
+.ISE - Installshield Express Project FileAverage
+.IWS - IntelliJ IDEA Web Pagenot specified
+.JAD - BlackBerry Java Application Descriptor fileCommon
+.JASPER - JasperReports Compiled Source FileAverage
+.JAVA - Java Source CodeCommon
+.JFSL - Flash Javascript FileAverage
+.JPD - Java Process Definitionnot specified
+.KDEVDLG - KDevelop Dialog Box Filenot specified
+.KDEVPRJ - KDevelop Project Filenot specified
+.KDMP - Windows Crash DumpUncommon
+.LDD - LEGO Digital Designer Filenot specified
+.LICENSES - Visual Studio Licensed ClassesCommon
+.LICX - Visual Studio LicenseCommon
+.LPROJ - Localized Project Foldernot specified
+.LSP - LISP Application Code FileAverage
+.LUA - Lua Source Filenot specified
+.M3G - Multimedia FileCommon
+.MAGIK - Magik Source Code Filenot specified
+.MAK - Makefilenot specified
+.MDMP - Windows MinidumpCommon
+.MEM - Memory Variable Save Filenot specified
+.MFA - Multimedia Fusion Development FileAverage
+.MIX - Power C Object FileAverage
+.MK - Makefilenot specified
+.MKG - MakefileAverage
+.MNO - Macromedia Design Notesnot specified
+.MS - MaxScript Filenot specified
+.MSE - Encrypted Maxscriptnot specified
+.MSG - FoxDoc MessageAverage
+.MTF - Theme FileAverage
+.MVC - Miva Merchant Compiled Script FileUncommon
+.MXML - Flex MXML ComponentAverage
+.MYAPP - Visual Studio Application XML Filenot specified
+.NK - Nuke Script FileUncommon
+.NXC - NXC (Not eXactly C) Source CodeAverage
+.O3DTGZ - O3D TGZ GZipped FileAverage
+.OMO - OMake Object Filenot specified
+.OVL - Motorola Radio Programming Filenot specified
+.P - Pascal Source CodeUncommon
+.PAS - Pascal Source CodeAverage
+.PBL - PowerBasic libraryUncommon
+.PBPROJ - Project Builder Projectnot specified
+.PGT - Menu File (DHTML).Average
+.PH - Perl header filenot specified
+.PHTML - HTML with embedded PHP scriptAverage
+.PL - Perl ScriptCommon
+.PM - Perl Module FileVery Common
+.POD - TextAverage
+.PPL - Free Pascal - Dynamic Librarynot specified
+.PPU - Free Pascal Compiled Unit Filenot specified
+.PTP - PFTrack Project FileAverage
+.PYD - Python Dynamic Modulenot specified
+.QRP - QuickReport ReportAverage
+.QX - Quexal Source Codenot specified
+.RBC - Rembo-C Scriptnot specified
+.RBP - REALbasic Projectnot specified
+.RC - Resource Script FileAverage
+.RESX - Visual Studio resource filenot specified
+.RISE - Rise Editor ModelAverage
+.RNC - RELAX NG Compact Syntax Filenot specified
+.RXML - Roxen Macro Language FileUncommon
+.SAS - SAS program filenot specified
+.SBS - IBM SPSS Script FileAverage
+.SLN - MS Visual Studio .Net Solution fileCommon
+.SMA - AMX Mod Plugin Source Filenot specified
+.SNIPPET - Visual Studio IntelliSense Code Snippetnot specified
+.SUO - Visual Studio .NET user settingsAverage
+.SVN-BASE - Subversion BaseAverage
+.SWC - Flex Components Archivenot specified
+.TARGETS - MSBuild Targets Filenot specified
+.TK - Tk Scriptnot specified
+.TMX - Translation Source FileUncommon
+.TPU - Turbo Pascal Unitnot specified
+.TPX - Turbo Pascal 7 Unitnot specified
+.TRX - Microsoft MSTests Results FileCommon
+.TU - Turing Source Filenot specified
+.VAC - Oc2.316s Cakit Filenot specified
+.VBPROJ - Visual Basic Project FileAverage
+.VBX - Visual Basic Custom Controlnot specified
+.VDPROJ - Visual Studio Deployment Project FileCommon
+.VGC - ViziGen Code Generation Templatenot specified
+.VJP - Microsoft Visual J++ ProjectAverage
+.VMS - Dreamcast Visual Memory System Filenot specified
+.VPC - ViziGen Configuration Filenot specified
+.VSPSCC - Visual Studio Project Source Control FileVery Common
+.VSSSCC - Visual Studio Solution Source Control FileAverage
+.WIS - wIntegrate Script Filenot specified
+.WIX - wIntegrate Compiled Script Filenot specified
+.WLD - Serious Sam World Filenot specified
+.WSC - Windows Script ComponentAverage
+.WSF - Windows Script FileCommon
+.XAP - Compressed Silverlight ApplicationAverage
+.XCODE - Xcode Projectnot specified
+.XCODEPROJ - Xcode ProjectAverage
+.XHTM - Extensible HyperText Markup Language FileAverage
+.XIB - Interface Builder Filenot specified
+.YMP - YaST Metapackage Filenot specified
+.ZEXP - Binary Export FileAverage

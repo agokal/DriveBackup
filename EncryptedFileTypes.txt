@@ -1,0 +1,31 @@
+.AXX - Encrypted FileAverage
+.BIN - Macbinary II Encoded FileVery Common
+.CGP - PixelCryptor Archivenot specified
+.DC4 - ViaThinkSoft (De)Coder 4 Filenot specified
+.DCF - DisCryptor Encrypted Archivenot specified
+.DCO - Discryptor Encrypted Virtual Disk ArchiveAverage
+.DIM - Direct Internet Message Encapsulation (DIME)not specified
+.DLC - jDownloader FileAverage
+.EFA - Ecrypt eMail Filenot specified
+.EFU - Encryptafile Public Key Filenot specified
+.ENC - Encoded fileAverage
+.HQX - Macintosh BinHex 4.0 Encoded Filenot specified
+.MFS - MetFS Encrypted File Systemnot specified
+.MIM - Multi-Purpose Internet Mail MessageVery Common
+.PDC - Encrypted PDC Filenot specified
+.PKF - Encryption Key FileAverage
+.RZK - Red Zion Key Filenot specified
+.RZX - File Crypt Encrypted Filenot specified
+.SECURITY - Java Security Policy FileUncommon
+.SEU - Serials 2000 Encrypted S2K UpdateAverage
+.SHY - ShyFile Encrypted Filenot specified
+.SKR - PGP (Pretty Good Privacy) Private (Secret) Keyring FileAverage
+.SPDF - Sealed PDFnot specified
+.SST - Serialized Certificate Store Filenot specified
+.SUF - cCrypt Encrypted FileAverage
+.SWITCH - Switch PackageAverage
+.SWZ - Adobe Flash Player Flex-signed RSL FileCommon
+.UTI - Encrypted Filenot specified
+.UUE - UU-encoded fileVery Common
+.XXE - Xxencoded Filenot specified
+.YNC - yEnc Encoded FileAverage

@@ -1,0 +1,44 @@
+.ABS - AzAmerica Satellite Receiver Update FileUncommon
+.CAB - Windows Cabinet FileVery Common
+.CGZ - Linux Drivers ArchiveAverage
+.CPL - Windows Control Panel ExtensionVery Common
+.CRASH - Apple Mac OS X Crash LogVery Common
+.CUR - Windows CursorVery Common
+.DESKTHEMEPACK - Windows 8 Theme Pack FileVery Common
+.DLL - Dynamic Link LibraryVery Common
+.DMP - Windows Memory DumpAverage
+.DRV - Device DriverVery Common
+.DS_STORE - Apple Mac OS X Folder Display Settings FileVery Common
+.FIR - Canon Firmware Update FileUncommon
+.FPBF - Mac OS X Burn Foldernot specified
+.FW - FirmWare Update FileAverage
+.HLP - Windows Help Filenot specified
+.HPJ - Help Project filenot specified
+.ICO - Icon FileVery Common
+.IDX - Index File (Generic)Very Common
+.ITS - Internet Document Setnot specified
+.KEY - Security KeyAverage
+.LNK - Windows File ShortcutVery Common
+.LOG - Windows Registry Hive Log FileVery Common
+.LOG1 - Windows Registry Hive Log 1Common
+.LOG2 - Windows Registry Hive Log 2Common
+.METADATA_NEVER_INDEX - Apple Spotlight Index Instruction FileUncommon
+.MI4 - Audio Player FirmwareAverage
+.MUM - Windows Vista Update PackageVery Common
+.NRL - Interwoven Document Hyperlinks FileAverage
+.NT - Windows NT Startup FileCommon
+.PBP - Sony Playstation Portable (PSP) Firmware Update FileCommon
+.PDR - Windows Port Drivernot specified
+.PK2 - Silkroad Online Game Data Filenot specified
+.PPM_B - Nokia PPM Flash FileRare
+.PREFPANE - Mac OS X System Preference Panenot specified
+.RMT - Router FirmwareAverage
+.RUF - Samsung DVD and Blu-Ray Player FirmwareAverage
+.SAVEDSEARCH - Spotlight Saved Searchnot specified
+.SAVER - Mac OS X Screen Savernot specified
+.SCR - Windows ScreensaverAverage
+.SFCACHE - ReadyBoost Cache FileVery Common
+.SPI - Nokia Keyboard Support FileAverage
+.SWP - Swap filenot specified
+.SYS - System FileVery Common
+.THEMEPACK - Windows 7 Theme PackVery Common

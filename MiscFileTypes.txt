@@ -1,0 +1,179 @@
+.!BT - Incomplete BitTorrent Download FileUncommon
+.8XP - TI-83 Plus Calculator FileUncommon
+.AAWDEF - Ad-Aware Definitions Filenot specified
+.ACSM - Adobe Content Server Message FileCommon
+.AEP - ArcExplorer Project fileAverage
+.AFPLOC - Apple Filing Protocol Locationnot specified
+.AHI - Dynamics AX Online Help Index Filenot specified
+.AIM - AOL Instant Messenger Launch filenot specified
+.AOD - Dynamics AX Object Data Filenot specified
+.AOI - Dynamics AX Application Object Index FileAverage
+.ASP - Astound Presentation FileRare
+.ATZ - Atomic Time Zone Filenot specified
+.AWC - Emulex AWC Firmware Update Filenot specified
+.AXD - Avery Label Pro Re-Index FileAverage
+.BC - BitComet Unfinished Download FileAverage
+.BFX - Cheyenne BitWare Fax Documentnot specified
+.BIN - AVG Anti-Virus Update FileAverage
+.BOOTSKIN - Stardock Bootskin Filenot specified
+.BP2 - AutoCAD Batch Plot Filenot specified
+.BP3 - AutoCAD Batch Plot Filenot specified
+.BUF - Buffer Filenot specified
+.CALB - Coolect Album Filenot specified
+.CEB - Apabi eBook Filenot specified
+.CHK - CHKDSK/SCANDISK Outputnot specified
+.CLKK - Clicker Keyboardnot specified
+.CLKT - Clicker Templatenot specified
+.CLKW - Clicker Word Banknot specified
+.CLY - ACT! Graphic Layout Filenot specified
+.CP3 - Grand Prix 3 Cockpit Shape Filenot specified
+.CRDOWNLOAD - Google Chrome Partial Download FileCommon
+.CTG - Canon Digital Camera Catalog FileAverage
+.CVF - CPU-Z Validation Filenot specified
+.DBX - Outlook Express E-mail FolderVery Common
+.DC1 - Bloomba E-mail MessageAverage
+.DEK - Memorize-It Flashcard Decknot specified
+.DESKTOP - Desktop Entry Filenot specified
+.DISABLED - SpyBot S&D Disabled FileAverage
+.DISKDEFINES - Linux LiveCD Information FileAverage
+.DPE.DUS - HP Scanner/Print FileAverage
+.DR - DRM Rights Objectnot specified
+.DSKIN - DockX SkinAverage
+.DUP0 - Android OS Duplicate FileVery Common
+.DUS - Readiris font dictionarynot specified
+.DWL - AutoCAD DraWing Lock Filenot specified
+.DWL2 - AutoCAD 2008+ DraWing Lock FileAverage
+.DWN - Firmware Update Filenot specified
+.EBN - Philips Firmware Update Filenot specified
+.EML - Email Messagenot specified
+.FBN - Sony Ericsson Firmware FileAverage
+.FPFV - File Protected From Virusnot specified
+.FTPLOC - FTP Locationnot specified
+.GAU - Flight Simulator Gauge Filenot specified
+.GBX - Gerber PCB Filenot specified
+.GG - Google Desktop Gadget FileCommon
+.GP4 - CCITT Group 4 Fax Filenot specified
+.GROWLREGDICT - Growl Temp Filenot specified
+.GWI - Novell GroupWise Shortcut/Link Filenot specified
+.HIP - Houdini Project Filenot specified
+.HM3 - Help & Manual 3 Projectnot specified
+.HMX - Help & Manual 4 Projectnot specified
+.ICONPACKAGE - IconPackager ThemeAverage
+.IDML - InDesign Markup LanguageAverage
+.INETLOC - Internet LocationAverage
+.ING - MasterCook Ingredients Filenot specified
+.IPSW - Apple iPod/iPhone Firmware Update FileAverage
+.IPTHEME - IconPackager Raw ThemeAverage
+.ISN - Installer Source Filesnot specified
+.ITPC - Apple iTunes Podcast Subscription FileAverage
+.ITT - IconTweaker ThemeAverage
+.IVA - Dementia.4207 Virus Filenot specified
+.IWS - InstallWatch Scan Filenot specified
+.KEX - KEDIT Macro Filenot specified
+.KEX - Keyboard Express Macronot specified
+.KHD - Dynamics AX Kernel Help Data Filenot specified
+.KHI - Dynamics AX Kernel Help Index Filenot specified
+.KO - Linux/Andoid ModuleUncommon
+.KTH - Keynote Themenot specified
+.KUMAC - Physics Analysis Workstation Macro FileUncommon
+.KYR - Lotus Domino Server KeyringAverage
+.LFD - MagicInfo Express Content Creator FileAverage
+.LINX - iPod Links Foldernot specified
+.LTF - Frogans Shortcut Filenot specified
+.LTH - Roxio Label Creator - Theme Filenot specified
+.LWTP - LimeWire Theme PackAverage
+.MAT - Microsoft Access Table ShortcutAverage
+.MCF - Symantec Security History Log Filesnot specified
+.MCO - Live Messenger Winks Filenot specified
+.MHS - Hardware Specification Filenot specified
+.MMB - MultiMedia Builder Filenot specified
+.MNU - Advanced macroAverage
+.MSF - Mozilla Thunderbird Mail Summary FileCommon
+.MSI - Windows Installer PackageVery Common
+.MSU - Windows Update PackageCommon
+.MTD - Music Transfer DocumentCommon
+.MVS - Project Language and Simulation Filenot specified
+.NAV2 - WinAVI Temporary Navigation Filenot specified
+.NCH - Outlook Express folder filenot specified
+.NICK - Outlook 2000 Nickname Filenot specified
+.NK2 - Outlook 2002 Nickname Filenot specified
+.NRF - Notes Redirect FileAverage
+.NTH - Nokia Theme Studio FileAverage
+.NWM - Sony NWM Display Screen Filenot specified
+.OB! - Orbit Downloader Incomplete DownloadAverage
+.ODS - Outlook Express Mailbox fileAverage
+.OPN - FileOPEN Document Rights Management FileUncommon
+.P2P - FolderShare Placeholder Filenot specified
+.PANDO - Pando Filenot specified
+.PAP - Corel Painter Texture FileAverage
+.PART - Partial Download FileVery Common
+.PDR - Symbian OS Printer Resource FileAverage
+.PLAYSET - Souptoys Playset Filenot specified
+.PNZ - Panorama Database Setnot specified
+.PPT3 - PowerPoint v3 Presentation FileUncommon
+.PPX - SASIxp Print Preview Filenot specified
+.PRB - xyAlgebra Probabilities Filenot specified
+.PSAR - PSP Update Filenot specified
+.PTL - Corrupt FileUncommon
+.PVM - HP Photo AlbumAverage
+.PWREP - Password Repository Filenot specified
+.PXI - $$D2K.PXIUncommon
+.QBO - QuickBooks Web Connect Filenot specified
+.RDP - Remote Desktop ProtocolUncommon
+.RMR - ResumeMaker Filenot specified
+.SBN - Cisco Firmware FileAverage
+.SCW - Score Writer Documentnot specified
+.SFM - Galaxy S Memo FileCommon
+.SHD - Printer Job Settings FileUncommon
+.SKI - Motorola Phone Skin/Theme Filenot specified
+.SKIN - .NET Skin filenot specified
+.SKINDEX - Mail Index Filenot specified
+.SKN - Windows Media Player Skin Filenot specified
+.SMS - Systems Management Server Package Definition Filenot specified
+.SPL - Printer Spool FileUncommon
+.SQM - Microsoft Service Quality Monitor FileVery Common
+.SR0 - SecuROM Analysis FileAverage
+.SSW - Sony Ericsson Firmware FileAverage
+.STD - StarOffice/OpenOffice Drawing Template Filenot specified
+.STH - Lotus Domino Stash FileAverage
+.STMB - Synclavier Timbre Filenot specified
+.SVN-WORK - Subversion Cache Filenot specified
+.SXM - StarOffice Math Filenot specified
+.T$M - AVG Internet Security Temporary Filenot specified
+.THM - Sony Ericsson Theme FileAverage
+.THMX - Microsoft Office (2007+) ThemeCommon
+.TLB - OLE Type LibraryAverage
+.TNEF - Transport Neutral Encapsulation Formatnot specified
+.TOC - Eudora Table Of Contentsnot specified
+.TORRENT - BitTorrent FileVery Common
+.TPP - Teleport Pro Project Filenot specified
+.TPS - Clarion TopSpeed Data Filenot specified
+.TSTREAM - SwarmPlayer Streaming Torrentnot specified
+.TTX - Trados Tag Editor FileAverage
+.TVL - TurboTax Filenot specified
+.UBB - Basic Ubas FileUncommon
+.UCCAPILOG - Windows Live Messenger UCC API log fileAverage
+.UNKNOWN - Unknown File TypeAverage
+.VBT - Spyware Doctor Temporary Scan FileCommon
+.VDB - CCTV System Content Filenot specified
+.VFS - Virtual File System IndexAverage
+.VLT - VLC Media Player Skin FileAverage
+.VOR - StarOffice Templatenot specified
+.VPA - VPchat Chat Gestures Filenot specified
+.VPC7 - Virtual Machine Packagenot specified
+.WZMUL - WinZip Registration Filenot specified
+.XAF - IMVU 3D Animation FileUncommon
+.XAF - Microsoft Active VRMLUncommon
+.XFDL - Embedded PureEdge FormUncommon
+.XLNK - XML Shortcut Filenot specified
+.XOL - PowerDesigner Object Language Filenot specified
+.XOL - Swiss Map Overlaynot specified
+.XPR - PressIt Disc Labelnot specified
+.XTREME - Winstep Xtreme Theme Packnot specified
+.YMG - Yahoo! Messenger Filenot specified
+.YPS - Yahoo! Messenger Data Filenot specified
+.ZM1 - ZoneAlarm Renamed MDA Filenot specified
+.ZM2 - ZoneAlarm Renamed MDZ Filenot specified
+.ZM3 - ZoneAlarm Renamed NCH Filenot specified
+.ZML - Zooming Markup Language Filenot specified
+.ZTR - DVD Label Template Media Filenot specified

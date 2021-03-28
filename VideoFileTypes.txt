@@ -1,0 +1,192 @@
+.264 - H.264 (MPEG-4) AVC Video FileUncommon
+.3G2 - 3GPP2 Multimedia FileVery Common
+.3GP - 3GPP Multimedia FileVery Common
+.3MM - 3D Movie Maker MovieAverage
+.3P2 - 3P2 Multimedia FileAverage
+.60D - Wavereader CCTV Video Clipnot specified
+.AAF - Advanced Authoring Format Multimedia FileCommon
+.AEC - Cinema 4D After Effects Composition FileAverage
+.AEP - After Effects Project FileAverage
+.AEPX - Adobe After Effects XML Project FileAverage
+.AJP - CCTV Video Stream FilesAverage
+.AM4 - Security First CCTV Video FileUncommon
+.AMV - Anime Music Video FileAverage
+.ARF - WebEx Advanced Recording Format FileAverage
+.ARV - Everfocus CCTV Surveillance Video Filenot specified
+.ASD - Microsoft Advanced Streaming FormatAverage
+.ASF - Advanced Systems File formatVery Common
+.ASX - Advanced Stream Redirector File formatVery Common
+.AVB - Avid Bin File formatAverage
+.AVD - AVD Video FileAverage
+.AVI - Audio Video Interleave FileVery Common
+.AVP - Avid Media Composer Project FileCommon
+.AVS - Application Visualization System filenot specified
+.AVS - AviSynth Script File formatCommon
+.AX - MPEG-4 DVD FilterAverage
+.AXM - Axmedis Object File formatAverage
+.BDMV - BluRay Disc Movie Information FileAverage
+.BIK - Video Filenot specified
+.BIX - Kodicom Video FileAverage
+.BOX - Kodicom Video (Audio) FileAverage
+.BPJ - Boujou Project FileAverage
+.BUP - DVD Information File BackupVery Common
+.CAMREC - Camtasia Studio Screen Recordingnot specified
+.CINE - Phantom Digital Video FileAverage
+.CPI - AVCHD Camcorder Video Clip Information FileAverage
+.CVC - cVideoUncommon
+.D2V - DVD2AVI Filenot specified
+.D3V - Datel Video Filenot specified
+.DAV - DVR365 VideoRare
+.DCE - DriveCam Video Event Filenot specified
+.DDAT - DivX Temporary VideoAverage
+.DIVX - DivX Encoded Movie FileCommon
+.DKD - Karaoke DVD FileUncommon
+.DLX - Sony Video Disk Unit FileUncommon
+.DMB - Digital Multimedia Broadcasting FileAverage
+.DM_84 - Wolfenstein Demo Movie FileAverage
+.DPG - Video Filenot specified
+.DREAM - DreamMaker Animated WallpaperAverage
+.DSM - DirectShow Media FileUncommon
+.DV - Digital Video File FormatAverage
+.DV2 - DVD2AVI File formatAverage
+.DVM - DVM Movie File FormatUncommon
+.DVR - Digital Video Recorder FileAverage
+.DVR-MS - Microsoft Digital Video Recording File formatAverage
+.DVX - DivX Video Filenot specified
+.DXR - Macromedia Director Protected Movie Filenot specified
+.EDL - Edit Decision List File formatCommon
+.ENC - Encrypted Flash Video fileCommon
+.EVO - HD DVD Video FileAverage
+.F4V - MP4 Video FileAverage
+.FBR - Flashback Screen RecordingAverage
+.FBZ - Flashback Screen Recorder MovieAverage
+.FCP - Final Cut Project File formatCommon
+.FCPROJECT - Apple Final Cut Pro X Project FileCommon
+.FLC - FLIC Animation File formatAverage
+.FLI - FLIC Animation File formatAverage
+.FLV - Flash Video FileVery Common
+.GTS - CaptiveWorks Satellite Receiver RecordingAverage
+.GVI - Video Filenot specified
+.GVP - Google Video Pointernot specified
+.H3R - Image Data Filenot specified
+.HDMOV - QuickTime HD Movie FileCommon
+.IFO - DVD Info FileVery Common
+.IMOVIEPROJ - iMovie Project FileVery Common
+.IMOVIEPROJECT - iMovie ProjectAverage
+.IRCP - Adobe SpeedGrade Iridas Composite File formatAverage
+.IRF - CCTV Video FileUncommon
+.IRF - iLinc Video FileUncommon
+.IVR - Internet Video RecordingAverage
+.IVS - Internet Streaming Videonot specified
+.IZZ - Isadora Media Control Projectnot specified
+.IZZY - Isadora Projectnot specified
+.M1PG - iFinish Video Clipnot specified
+.M21 - AXMEDIS MPEG-21 Filenot specified
+.M21 - MPEG-21 Filenot specified
+.M2P - MPEG-2 Program Stream File formatCommon
+.M2T - High-definition Video FileCommon
+.M2TS - MPEG-2 Transport Stream FileAverage
+.M2V - MPEG-2 Video FileAverage
+.M4E - MPEG-4 Video Filenot specified
+.M4U - MPEG-4 Playlistnot specified
+.M4V - Apple iTunes Video FileCommon
+.MBF - CCTV Security Video Filenot specified
+.MBT - JVC HD Camcorder Video FileAverage
+.MBV - JVC Everio MediaBrowser Movie Edit FileAverage
+.MJ2 - Motion JPEG 2000 VideoAverage
+.MJP - MJPEG Video Filenot specified
+.MK3D - Matroska 3D Video formatAverage
+.MKV - Matroska Video StreamAverage
+.MNV - PlayStation Movie FileAverage
+.MOCHA - Mocha Pro Project FileAverage
+.MOD - JVC Everio Camcorder Video FileCommon
+.MOFF - Video Summary FileAverage
+.MOI - JVC Camcorder Time-Stamp FileCommon
+.MOV - QuickTime Movie File formatVery Common
+.MP21 - AXMEDIS MPEG-21 Objectnot specified
+.MP21 - MPEG-21 Multimedia Filenot specified
+.MP4 - MPEG 4 Video FileVery Common
+.MP4V - MPEG-4 VideoCommon
+.MPEG - MPEG digital video formatCommon
+.MPG - MPEG Video FileVery Common
+.MPG2 - MPEG-2 VideoCommon
+.MQV - Sony Movie Format Filenot specified
+.MSDVD - Windows DVD Maker Project FileAverage
+.MSWMM - Windows Movie Maker ProjectCommon
+.MTS - AVCHD Camcorder Video FileVery Common
+.MTV - Video Filenot specified
+.MVB - Multimedia Viewer filenot specified
+.MVP - Movie Edit Pro Video Project formatAverage
+.MXF - Material Exchange Format FileAverage
+.MZT - Mezzmo Video FileUncommon
+.NSV - Nullsoft streaming video fileVery Common
+.OGV - Ogg Vorbis VideoVery Common
+.OGX - OGG Vorbis Multiplexed Media FileAverage
+.PDS - PowerDirector Project FileAverage
+.PGI - Video Recording Information FileCommon
+.PIV - Pivot Stickfigure Animationnot specified
+.PLB - Adobe Premiere Library FileCommon
+.PMF - Movie FileAverage
+.PNS - Pelco PNS CCTV Video FileUncommon
+.PPJ - Adobe Premiere Project FileCommon
+.PRPROJ - Premiere Pro ProjectCommon
+.PRTL - Adobe Premiere Title FileAverage
+.PSH - Photodex Slide ShowAverage
+.PVR - Starview PVR Video FileAverage
+.PXV - Pixbend Media Filenot specified
+.QT - QuickTime VideoAverage
+.QTL - QuickTime MovieAverage
+.R3D - REDCODE Video File formatCommon
+.RATDVD - ratDVD DVD Image File (Compressed)Average
+.RM - RealMedia FileVery Common
+.RMS - Secure Real Media FileAverage
+.RMVB - RealVideo Variable Bit Ratenot specified
+.ROQ - ID Software Game VideoAverage
+.RPF - Rich Pixel FormatAverage
+.RPL - ARMovie Videonot specified
+.RUM - Bink Video Subtitle Filenot specified
+.RV - RealVideo videoAverage
+.SDV - Samsung Digital Videonot specified
+.SFVIDCAP - Sonic Foundry Video Capture Filenot specified
+.SLC - Satellite TV Recorded Video FileUncommon
+.SMK - Smacker Compressed Movie FileAverage
+.SPL - Adobe Shockwave Flash ObjectCommon
+.SQZ - Sorenson Squeeze Project File formatCommon
+.SUB - Movie/Film Subtitle FileCommon
+.SVI - Video Formatnot specified
+.SWF - Shockwave Flash Movie FileVery Common
+.TDA3MT - DivX Author Template Filenot specified
+.THM - Video ThumbnailCommon
+.TIVO - TiVo Video Filenot specified
+.TOD - JVC Camcorder Video FileCommon
+.TP0 - Mascom PVR VideoAverage
+.TRP - Sonicview Video Filenot specified
+.TS - HDTV (High definition) Stream FileVery Common
+.UDP - Corel VideoStudio Data FileAverage
+.USM - Game Video FileUncommon
+.VCR - ATI Video Recorder FileCommon
+.VEG - Vegas Video ProjectAverage
+.VFT - Corel VideoStudio FilterUncommon
+.VGZ - DigitalVDO Compressed VideoAverage
+.VIEWLET - Qarbon Viewletnot specified
+.VLAB - VisionLab Studio Project Filenot specified
+.VMB - CCTV System Video Filenot specified
+.VOB - DVD Video Object File formatVery Common
+.VP6 - TrueMotion VP6 Video Filenot specified
+.VP7 - TrueMotion VP7 Video Filenot specified
+.VRO - DVD Video Recording Filenot specified
+.VSP - Corel VideoStudio Project FileCommon
+.VVF - Speco Digital Video Recorder (DVR) FileAverage
+.WD1 - Earth 2150 Movienot specified
+.WEBM - WebM Video/Audio Multimedia Container FileCommon
+.WLMP - Windows Live Movie Maker ProjectVery Common
+.WMMP - Windows Movie Maker Project FileAverage
+.WMV - Windows Media Video File formatVery Common
+.WP3 - Microsoft Photo Story ProjectAverage
+.WTV - Windows Media Center TV FileVery Common
+.XFL - Flash Movie ArchiveAverage
+.XVID - XVID Encoded Video FileAverage
+.ZM1 - ZSNES Movie #1 Filenot specified
+.ZM2 - ZSNES Movie #2 Filenot specified
+.ZM3 - ZSNES Movie #3 Filenot specified
+.ZMV - ZSNES Movie Filenot specified

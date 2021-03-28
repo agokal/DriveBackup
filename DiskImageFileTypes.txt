@@ -1,0 +1,69 @@
+.ADF - Amiga Disk FileUncommon
+.BIF - Boot Information FileUncommon
+.BIN - CD/DVD Disc Image FileCommon
+.BTN - Makeover Button (Buttonware)Rare
+.BWA - BlindWrite Disk Information Filenot specified
+.CDFS - Compact Disk filing systemAverage
+.CL5 - Easy CD Creator 5 Saved ProjectAverage
+.CRTC - Project file by Toast 3Average
+.CSO - PSP Compressed ISO CD Disk ImageAverage
+.CUE - CD-Image Cue Sheet FileUncommon
+.D88 - Toshiba Pasopia 7 Disk Filenot specified
+.DAA - PowerISO Direct-Access-ArchiveCommon
+.DAX - PSP Compressed ISO Disc Imagenot specified
+.DCF - Disk Image filenot specified
+.DISK - Linux Virtual Hard Disknot specified
+.DMG - Apple Mac OS X Disk ImageVery Common
+.DVM - Acard HA! DVD Image FileUncommon
+.EDA - Ensoniq ASR disk imagenot specified
+.EDE - Ensoniq EPS disk imageAverage
+.EDK - Ensoniq KT disk imagenot specified
+.EDQ - Ensoniq SQ1/SQ2/KS32 disk imagenot specified
+.EDV - Ensoniq VFX-SD disk imagenot specified
+.FDI - Amiga Disk Imagenot specified
+.GBC - Gameboy Color - Emulator ROM Image Filenot specified
+.GBI - gBurner Project Filenot specified
+.GHS - Symantec Ghost Disk Image Filenot specified
+.GI - CD ImageUncommon
+.GKH - Ensoniq EPS family disk imagenot specified
+.HDD - Parallels Hard Disk Drive Filenot specified
+.IMG - CD/DVD Image FileVery Common
+.ISO - CD/DVD Disc ImageVery Common
+.ISZ - Compressed Disk Imagenot specified
+.IXA - Ulead Disc Image formatnot specified
+.IXB - ULead Disc ImageAverage
+.MBI - Multi-Bootable Information FileCommon
+.MD0 - Alcohol Disk Image Segment 1Average
+.MD1 - Alcohol Disk Image Segment 2not specified
+.MD1 - GEAR CD/DVD Disc Imagenot specified
+.MD5 - IsoBuster MD5 Checksum FileAverage
+.MDF - CD or DVD Virtual Image FileVery Common
+.MDS - Media Descriptor CD/DVD Image FileAverage
+.NCD - CD/DVD Image Filenot specified
+.NN - Nero CD File Listnot specified
+.NPF - NTI BackupAverage
+.NRG - Nero CD/DVD ImageCommon
+.NVC - NeroVision Express Project FileAverage
+.PQI - PowerQuest Drive Image FileUncommon
+.RCL - Easy CD and DVD Creator 6 ProjectAverage
+.SIMG - Synclavier Disk Image Filenot specified
+.SOPT - Synclavier Optical Disk Image Filenot specified
+.SPARSEBUNDLE - Mac OS X Sparse Bundle Filenot specified
+.SPARSEIMAGE - Mac OS X Sparse Imagenot specified
+.SQFS - Squash FS Bootable Filenot specified
+.TDI - Toshiba Disc Image fileUncommon
+.TIB - Acronis True Image Disk ImageUncommon
+.TOAST - Toast Disk ImageVery Common
+.TZX - ZX Spectrum Tape Image Filenot specified
+.UIBAK - UltraISO Backup Disk ImageAverage
+.UIF - MagicISO Disc Image FileCommon
+.VAPORCD - Norum Vapor CDnot specified
+.VC4 - Virtual CD/DVD ImageAverage
+.VCD - Virtual CD-ROM CD ImageCommon
+.VMDK - VMware Virtual Disk Filenot specified
+.VMWAREVM - VMWare Fusion Virtual MachineAverage
+.X64 - Commodore 64 Disk Imagenot specified
+.XBX - XBox CD Image FileAverage
+.XDF - eXtended Density Format Imagenot specified
+.XMD - GameJack Disc Imagenot specified
+.XMF - GameJack Disk Image

@@ -1,0 +1,170 @@
+.A2W - Alice WorldAverage
+.AAO - AmericaAverage
+.ACX - Atari ST programnot specified
+.ARCH00 - F.E.A.R. Game Archivenot specified
+.BFF - Need for Speed SHIFT Game DataUncommon
+.BGL - Microsoft Flight Simulator Scenery filenot specified
+.BIQ - Civilization 3 Scenarionot specified
+.BLP - Blizzard Texture Filenot specified
+.BLS - Blockland Saved GameAverage
+.BMD - GameCube 3D Model Filenot specified
+.BME - BeatMania Song FileAverage
+.BSB - Bioshock Saved GameVery Common
+.BSP - Valve Hammer Map FileAverage
+.BZW - BZFlag World MapAverage
+.CDP2 - Trainz Classics Content Dispatcher Pack 2Average
+.CFR - CrossFire Reply FileUncommon
+.CGZ - AssaultCube MapAverage
+.CHK - Map FileAverage
+.CMT - Chess Master Tournament FileUncommon
+.CSB - Street Fighter 4 Sound FileCommon
+.CTY - SimCity City Filenot specified
+.DBR - Golf Courses fileRare
+.DM_82 - Wolfenstein 1.00 Demo MovieAverage
+.DM_83 - Wolfenstein 1.02 Demo MovieAverage
+.DOL - Gamecube Executable Filenot specified
+.DXS - Deus Ex Saved Gamenot specified
+.EPC - Doctor Who Game Image FileUncommon
+.ERB - Evil Genius Resource Filenot specified
+.FC2MAP - Far Cry 2 User MapVery Common
+.FORGE - Assassin's Creed - Game Data Filenot specified
+.FPS - FPS Creator SegmentAverage
+.FS2 - FreeSpace 2 Saved Mission Filenot specified
+.G3X - RealFlight ContentAverage
+.GAM - Saved Game FileCommon
+.GAME - Apple Chess Saved GameAverage
+.GB - Emulator ROM image fileAverage
+.GB1 - Game Maker Backup FileAverage
+.GBX - Nadeo Game FileAverage
+.GFX - Cue Club Image FileAverage
+.GM6 - Game Maker 6 Project FileAverage
+.GMRES - Game Maker ResourceAverage
+.GR2 - Granny 3D Model FileAverage
+.GRP - Duke Nukem 3D Archivenot specified
+.GXT - GTA Dialogue FileAverage
+.H3M - Heroes 3 Map Filenot specified
+.H4R - Heroes of Might and Magic IV Data Filenot specified
+.IBT - Texture and Model Filenot specified
+.IDX0 - Runescape Cache Index Filenot specified
+.IDX255 - Runescape Cache Filenot specified
+.IPG - Apple iPOD Game FileAverage
+.IWD - Call of Duty Game Data FileAverage
+.J2I - Jazz 2 Internet Link Filenot specified
+.J2L - Jazz Jackrabbit 2 Level Filenot specified
+.JG4 - BigJig Jigsaw Puzzlenot specified
+.KSC - Knight Online ScreenshotUncommon
+.KWREPLAY - Command & Conquer 3 Replay Filenot specified
+.LDW - Virtual Villagers Saved GameAverage
+.LLM - Linden Lab MeshAverage
+.LMU - RPG Maker Map Filenot specified
+.LUXB - Lux Map Filenot specified
+.M2 - World of Warcraft Model Object Filenot specified
+.MAP - Compiled Map Filenot specified
+.MASSEFFECTSAVE - Mass Effect Saved GameCommon
+.MDL - Half-life Modelnot specified
+.MM6 - Might and Magic 6 Saved Gamenot specified
+.MM7 - Might and Magic 7 Saved Gamenot specified
+.MM8 - Might and Magic 8 Saved Gamenot specified
+.MP2M - Max Payne 2 Mod Filenot specified
+.MP2S - Max Payne 2 Saved GameAverage
+.MPK - Project64 Memory Pack FileAverage
+.MVE - Interplay video filenot specified
+.N-GAGE - N-Gage ApplicationCommon
+.N3PMESH - Knight Online 3D Mesh Filenot specified
+.NARC - Nintendo DS ArchiveAverage
+.NAV - Valve Softwware Navigation Mesh Filenot specified
+.NDS - Nintendo DS Game ROMAverage
+.NES - Nintendo Emulator ROM FileCommon
+.NGAGE - N-Gage Game FileAverage
+.NLTRACK - NoLimits Roller Coaster Track Filenot specified
+.NSBCA - Nintendo DS Model AnimationAverage
+.NSBMD - Nintendo DS ModelAverage
+.NSBTX - Nintendo DS Model TextureAverage
+.NTRK - Pacific Fighters Online TrackAverage
+.NUP - Smart Security Update Filenot specified
+.OSZ - OSU Beatmap File (Zipped)Common
+.PACKAGE - The Sims 2 Package FileAverage
+.PBN - Portable Bridge Notation fileAverage
+.PEG - Peggle Deluxe Replay Filenot specified
+.PEGN - Peggle Nights Replay Filenot specified
+.PEGW - Peggle World Of Warcraft Replay Filenot specified
+.PEGX - Peggle Extreme Replay Filenot specified
+.PGN - Portable game notation filenot specified
+.PK3 - Medal of Honor: Allied Assault (MoH:AA)Average
+.PKG - Sony PlayStation Package Filenot specified
+.POF - Descent Robot Definition Filenot specified
+.PQHERO - Puzzle Quest Saved GameAverage
+.PSK - Unreal Engine Skeletal MeshAverage
+.PSV - Playstation 2 Save Filenot specified
+.PT - Player Tools game crackAverage
+.PUZ - AcrossLite Crossword Puzzle FileAcrossLiteAverage
+.RBXL - Roblox LocationAverage
+.RBXM - ROBLOX ModelAverage
+.RGP - RealArcade Game Packagenot specified
+.ROM - Nintento 64 Emulation ROM ImageCommon
+.RP2 - RetroPlatform Player Program Archivenot specified
+.RXDATA - RMXP Data Filenot specified
+.SAV - Saved Game FileVery Common
+.SC2ARCHIVE - StarCraft 2 Archive FileVery Common
+.SC2ASSETS - StarCraft 2 Assets FileVery Common
+.SC2BANK - StarCraft 2 Tutorial Bank FileVery Common
+.SC2CAMPAIGN - StarCraft 2 Campaign FolderVery Common
+.SC2DATA - StarCraft 2 Data FileVery Common
+.SC2LOCALE - StarCraft 2 User Location FileVery Common
+.SC2MAPS - StarCraft 2 Map FileVery Common
+.SC2MOD - StarCraft 2 Modification FileVery Common
+.SC2REPLAY - StarCraft 2 Game Replay FileVery Common
+.SC2SAVE - StarCraft 2 Saved Game FileVery Common
+.SC4 - SimCity 4 Saved Citynot specified
+.SFD - Sofdec Game MovieAverage
+.SFO - Sony PSP Game Parameters FileAverage
+.SGA - Archive FormatAverage
+.SGM - Visual Boy Advance Saved State FileUncommon
+.SIMS2PACK - Downloaded Sims 2 Package Filenot specified
+.SIMS3PACK - The Sims 3 Package FileCommon
+.SMC - Super Nintendo Game-console ROM ImageUncommon
+.SMS - Sega Master System Emulator ROM FileCommon
+.SMZIP - StepMania Filenot specified
+.SP3 - Quake2 pcx 32-bit sprite builder fileAverage
+.SPR - Sprite Filenot specified
+.SRM - Game console ROM emulator fileAverage
+.SV4 - RollerCoaster Tycoon Saved GameUncommon
+.SV5 - BigJig Saved Puzzlenot specified
+.SV6 - Rollercoaster Tycoon 2 Saved GameUncommon
+.SWC - Super Nintendo Wild Card ROM Filenot specified
+.TED - Tribes 2 Game Data Filenot specified
+.TOC - World Of Warcraft - Add-On Information Filenot specified
+.UC - UnrealScript Classnot specified
+.UNITY - Unity Scene FileCommon
+.UOP - Ultima Online Patch Filenot specified
+.UPK - Unreal Engine 3 PackageCommon
+.USX - Unreal Static Meshesnot specified
+.UT2 - Unreal Tournament Mapnot specified
+.UTC - Bioware Creature Filenot specified
+.UXX - Unreal Tournament Cachenot specified
+.VB - Image ROM FileAverage
+.VPK - Valve Package FileCommon
+.W3G - Recorded Game Filenot specified
+.W3N - Warcraft 3 Expansion Campaign FileCommon
+.WAD - Video, Map, and general informationVery Common
+.WAGAME - Worms Armageddon Game Recordingnot specified
+.WFC - Wiiflow File CacheAverage
+.WL6 - Wolfenstein 3D (Registered Version) Data FileUncommon
+.WMO - World of Warcraft World Map Object Filenot specified
+.WTF - World of Warcraft Text Filenot specified
+.WX - Flight Simulator Weather Filenot specified
+.WZ - MapleStory Game Data Filenot specified
+.XEN - Guitar Hero Song Filenot specified
+.XMB - X-Wing Mission Briefing Filenot specified
+.XPD - PlayStation Store PSP License FileAverage
+.YCM - Yu-Gi-Oh! Card Maker Filenot specified
+.YDC - Yu-Gi-Oh! Card DeckCommon
+.YDR - Yu-Gi-Oh! Power of Chaos Replay Filenot specified
+.Z2F - Zoo Tycoon 2 Object FileCommon
+.Z64 - Nintendo 64 Game ROMAverage
+.ZMAP - Zombies Ate My Neighbors Map Filenot specified
+.ZS8 - ZSNES Slot 8 Save StateAverage
+.ZSD - Dave Mirra Freestyle BMX DataAverage
+.ZST - ZSNES Save Filenot specified
+.ZTMP - Steam Compressed Game ResourceAverage
+.ZZZ - Black & White Game DataUncommon

@@ -1,0 +1,288 @@
+.006 - Navigation Chart FileAverage
+.007 - Navigation Chart FileAverage
+.3DMF - QuickDraw 3D MetaFilenot specified
+.3DX - Rhino 3D v3 Model Filenot specified
+.8PBS - Adobe Photoshop Macintosh Filenot specified
+.ABM - Photo AlbumAverage
+.ABR - Adobe Photoshop BrushAverage
+.ADI - AutoCAD device-independent binary plotter filenot specified
+.AEX - Greeting Card Factory Clip Art FileUncommon
+.AI - Adobe Illustrator Artwork fileCommon
+.AIS - ACDSee Image Sequencenot specified
+.ALBM - HP Photo Printing Software AlbumRare
+.AMU - Sony Photo Albumnot specified
+.ARD - ArtiosCAD Workspace Filenot specified
+.ART - AOL Compressed Image Filenot specified
+.ARW - Sony Digital Camera ImageCommon
+.ASAT - Assemble SAT 3D Model Filenot specified
+.B16 - 16-colour Bitmap PCO Image Filenot specified
+.BIL - Band Interleaved by Line ImageAverage
+.BLEND - Blender 3D Data FileAverage
+.BLKRT - Block Artist Image Filenot specified
+.BLZ - Compressed Bitmap Graphicnot specified
+.BMC - Bitmap Cache FileAverage
+.BMC - Embroidery Image Filenot specified
+.BMP - Bitmap Image FileVery Common
+.BOB - BOB Bitmap ImageUncommon
+.BR4 - Bryce 4 Scene Filenot specified
+.BR5 - Bryce 3D Scene Filenot specified
+.C4 - JEDMICS Bitmap Image Filenot specified
+.CADRG - Compressed ARC Digitized Raster Graphicsnot specified
+.CATPART - CATIA V5 Part Documentnot specified
+.CCX - Corel Photo House GraphicsAverage
+.CDR - CorelDraw Drawing FileCommon
+.CDT - Corel Draw templateCommon
+.CDX - Corel Draw Compressed DrawingAverage
+.CGM - Computer Graphics MetafileAverage
+.CHT - Harvard Graphics Vector filenot specified
+.CM2 - Poser Camera Set Filenot specified
+.CMX - Corel Presentation Exchange imageUncommon
+.CMZ - Compressed Poser Camera Set Filenot specified
+.COMICDOC - Comic Life DocumentAverage
+.CPL - Corel Color PaletteCommon
+.CPS - Corel Photo House Graphics ImageAverage
+.CPT - Corel Photo-Paint Image/DocumentCommon
+.CR2 - Canon Raw Digital Image FileAverage
+.CSF - Content Secure Formatnot specified
+.CV5 - Canvas 5 Drawingnot specified
+.CVG - Convertible Vector Graphics Image Filenot specified
+.CVI - Canvas Image Formatnot specified
+.CVI - CassiniVision Map Image Filenot specified
+.CVX - Canvas 9 Image Filenot specified
+.DAE - Digital Asset Exchange FileAverage
+.DCIM - Medical Imagenot specified
+.DCM - DICOM Imagenot specified
+.DCR - A RAW Image Filenot specified
+.DCS - Desktop Color Separation filenot specified
+.DDS - DirectDraw Surface FileVery Common
+.DESIGN - Microsoft Expression Design DrawingAverage
+.DIB - Device Independent Bitmap GraphicVery Common
+.DJV - DjVu Image Filenot specified
+.DJVU - DjVu Image Filenot specified
+.DNG - Digital Negative Image Filenot specified
+.DRG - AllyCAD DrawingAverage
+.DRW - Drawing FileCommon
+.DRWDOT - Solidworks Drawing TemplateAverage
+.DT2 - Windows Live Messenger Emoticon ImageAverage
+.DVL - Virtual Library Filenot specified
+.DWB - Coryphaeus Software Designers Workbench ImageRare
+.DWF - Autodesk Drawing Web Format FileAverage
+.DXB - AutoCAD Drawing Interchange Binary FileCommon
+.EASM - eDrawings FileUncommon
+.EC3 - Epson Print CD Image FileAverage
+.EDP - Darkroom Professional Photo Border FileAverage
+.EDRW - SolidWorks eDrawing Filenot specified
+.EDW - eDrawings SolidWorks Corpnot specified
+.EMF - Windows Enhanced Metafile FormatAverage
+.EPRT - SolidWorks eDrawing Part Filenot specified
+.EPS - Encapsulated PostScript FileCommon
+.EPSF - Adobe Encapsulated PostScript FormatAverage
+.EPSI - Adobe Encapsulated Postscript InterchangeAverage
+.EXR - OpenEXR Raster Image FileCommon
+.FAC - Face graphicnot specified
+.FACE - FACE Graphicnot specified
+.FBM - Fuzzy BitMapnot specified
+.FBX - Autodesk FBX Interchange Document FileCommon
+.FC2 - Poser Face Pose Filenot specified
+.FCZ - Compressed Poser Face Pose Filenot specified
+.FD2 - PictureMate Borders Filenot specified
+.FH11 - Adobe Freehand 11 DrawingAverage
+.FHD - FreeHand Drawing Filenot specified
+.FIT - Flexible Image Transport SystemAverage
+.FLIC - FLIC File formatAverage
+.FLM - Filmstrip FileCommon
+.FM - FrameMaker Documentnot specified
+.FPF - IKEA Home Planner FileCommon
+.FS - FlexiSIGN Document Filenot specified
+.FW.PNG - Adobe Fireworks Portable Network Graphics FileVery Common
+.FXG - Flash XML GraphicsCommon
+.GIF - Graphics Interchange Format Image FileVery Common
+.GRAFFLE - OmniGraffle Drawingnot specified
+.GTX - Raster graphics (GTX Group IV)Average
+.HD2 - Poser Hand Pose Filenot specified
+.HDZ - Compressed Poser Hand Pose Filenot specified
+.HPD - HotDocs PDF Documentnot specified
+.HPI - Hemera Image Object Filenot specified
+.HR2 - Poser Hair Filenot specified
+.HTZ4 - HyperMaker Publicationnot specified
+.ICL - Icon LibraryUncommon
+.ICS - IronCAD Scene Filenot specified
+.IDW - AutoDesk Inventor Drawing Filenot specified
+.IEF - Image Exchange Formatnot specified
+.IGES - Initial Graphics Exchange SpecificationAverage
+.IGR - SmartSketch Drawing Design fileAverage
+.ILBM - InterLeaved Bitmapnot specified
+.ILM - Amiga IFF ImageUncommon
+.IMA - Photographic ImageUncommon
+.IME - IncrediMail EmoticonsUncommon
+.IMI - IncrediMail ImagesUncommon
+.IMS - IncrediMail SkinUncommon
+.INDD - Adobe InDesign documentAverage
+.INDT - InDesign Templatenot specified
+.IPJ - AutoDesk Inventor Filenot specified
+.IRF - Autodesk Impression Drawingnot specified
+.ITC2 - iTunes Coverart 2Very Common
+.ITHMB - Apple iPod / iPhone Media FileCommon
+.J2K - JPEG 2000 Imagenot specified
+.JIFF - JPEG Image File Formatnot specified
+.JNG - JPEG Network Graphicnot specified
+.JPEG - Joint Photographic Expert Group Image FileAverage
+.JPF - JPEG 2000 Imagenot specified
+.JPG - Joint Photographic Expert Group Image FileVery Common
+.JPG2 - JPEG 2000 ImageAverage
+.JPS - Stereo Image image formatAverage
+.JPW - World File for JPEGnot specified
+.JT - UGS Teamcenter Vizualization Filenot specified
+.JWL - Easy CD Creator - CD Label Filenot specified
+.JXR - JPEG XR ImageCommon
+.KDC - Kodak Image Filenot specified
+.KODAK - Kodak Photo CD Filenot specified
+.KPG - Kai's Power Goo Graphicnot specified
+.LDA - LaserData Image FormatAverage
+.LDM - VolumeViz Multi-Resolution Volume FileAverage
+.LET - Broderbund CreataCard Letterhead fileAverage
+.LT2 - Poser Light Set Filenot specified
+.LTZ - Compressed Poser Light Set Filenot specified
+.LVA - Logitech Video Effects AvatarAverage
+.LVF - Logitech Video EffectsAverage
+.LXF - LEGO Digital Designer Model Filenot specified
+.MAC - MacPaint Bitmap Graphicnot specified
+.MACP - MacPaint Bitmap Graphicnot specified
+.MCS - MathCAD imagenot specified
+.MCZ - Compressed Poser Material Filenot specified
+.MDI - Microsoft Office Document Imaging FileCommon
+.MGS - MGCSoft Vector Shapesnot specified
+.MGX - Micrografx Designer Drawing Clip ArtAverage
+.MIC - Image Composer filenot specified
+.MIP - Multiple Image Print Filenot specified
+.MNG - Multiple-image Network Graphics Image Filenot specified
+.MPF - Microsoft Media PackageCommon
+.MPO - Multi Picture Object FileAverage
+.MTZ - Compressed MetaStream Scene Filenot specified
+.MUR - 3D Graphicnot specified
+.MUR - Atari image formatnot specified
+.NAV - MSN Application Extensionnot specified
+.NCR - NCR ImageUncommon
+.NEU - Pro/Engineer Neutral FileAverage
+.NFF - Neutral File Formatnot specified
+.NJB - Nikon Photo Index Filenot specified
+.NTC - Nikon Capture Custom Curvesnot specified
+.NTH - ImageMagick VisualMagick jbig fileUncommon
+.ODI - OpenDocument Imagenot specified
+.ODIF - Open Document Interchange Formatnot specified
+.OLA - Online Access Filenot specified
+.OPD - OmniPage DocumentAverage
+.ORA - MyPaint Open Raster Drawing FileUncommon
+.OTA - OTA Bitmapnot specified
+.OTB - Nokia Over The Air Bitmapnot specified
+.OTC - OpenDocument Chart Templatenot specified
+.OTG - OpenDocument Graphic Templatenot specified
+.OTI - OpenDocument Image Templatenot specified
+.OVW - Cubase WAVE File Overviewnot specified
+.P21 - Express Step Data ModelAverage
+.P2Z - Compressed Poser Pose Filenot specified
+.PAT - Pattern filenot specified
+.PC6 - PowerCADD 6 Drawing Filenot specified
+.PC7 - PowerCADD 7 Drawing Filenot specified
+.PCD - Kodak Image FileCommon
+.PCT - Macintosh PICT DrawingCommon
+.PCX - PC Paintbrush Bitmap ImageAverage
+.PDF - Portable Document FormatVery Common
+.PDN - Paint.NET ImageCommon
+.PEF - A RAW Image FileAverage
+.PI2 - Portrait Innovations Picture FileUncommon
+.PIC - Lotus PictureAverage
+.PIC - QuickTime PictureAverage
+.PICNC - Houdini 3D Compositing Imagenot specified
+.PICTCLIPPING - OS X Picture Clipping FileAverage
+.PL0 - 3D Home Architect Foundation Floor PlanAverage
+.PL2 - 3D Home Architect Second Level Floor PlanAverage
+.PLN - ArchiCAD Project Filenot specified
+.PMB - Polar Monitor Bitmap Image FileUncommon
+.PNG - Portable Network GraphicsVery Common
+.POL - 3D polygonal modeling filenot specified
+.PP2 - Poser Prop Filenot specified
+.PPSX - Microsoft Office PowerPoint (2007+) ShowCommon
+.PRW - Artlantis Shader Preview Filenot specified
+.PS - PostScript FileCommon
+.PS - Postscript Formatted FileCommon
+.PSB - Adobe Photoshop Large Image Documentnot specified
+.PSD - Adobe Photoshop Image DocumentVery Common
+.PSF - PhotoStudio GraphicAverage
+.PSG - Page Segment Filenot specified
+.PSP - Paint Shop Pro Imagenot specified
+.PSPIMAGE - Paint Shop Pro ImageCommon
+.PSQ - Postscript GraphicCommon
+.PVL - Motorola Phone Photonot specified
+.PWD - Word documentAverage
+.PWS - Print Workshop Imagenot specified
+.PX - Pixel image formatAverage
+.PXR - Pixar Image FileUncommon
+.PZ2 - Poser Pose Filenot specified
+.PZ3 - Poser Scene Filenot specified
+.QTIF - QuickTime ImageAverage
+.QTZ - Animation / Graphics Filenot specified
+.QXD - QuarkXpress Data FileCommon
+.RIC - Lego Mindstorms NXT Image FileUncommon
+.RLC - Scanner Graphics FileAverage
+.RLE - Run-Length Encoded BitmapAverage
+.RW2 - Panasonic RAW Image FileCommon
+.SDK - AutoSketch Drawing FileCommon
+.SDR - SmartDraw DrawingAverage
+.SEC - Samsung TV Content LIbrary FileAverage
+.SFW - Seattle FilmWorks Imagenot specified
+.SIG - Broderbund Print Shop Sign FileAverage
+.SKP - Google SketchUp ModelAverage
+.SLDASM - SolidWorks 3D Assembly FileAverage
+.SLDDRW - Solidworks FileAverage
+.SLDPRT - SolidWorks 3D Object Part FileAverage
+.SNX - Second Nature ScreensaverAverage
+.SRF - A RAW Image Filenot specified
+.SST - Satellite Geology ImageUncommon
+.SUN - Rasterfile graphicsnot specified
+.SVG - Scalable Vector Graphics FileCommon
+.SVGZ - Scalable Vector Graphics ZipCommon
+.TARGA - Raster Image FileCommon
+.TCW - TurboCAD Drawing FileAverage
+.TCX - TurboCAD 3D Model Text Filenot specified
+.TEX - Texture Filenot specified
+.TGA - Truevision TARGA Image FileCommon
+.TIF - Tagged Image File Format (TIFF) ImageCommon
+.TIFF - Tagged Image File Format (TIFF) ImageCommon
+.TJP - Tiled JPEG Filenot specified
+.TN - Tracor Northern Image FileUncommon
+.TPF - Game TextureUncommon
+.TPX - Nova Photo Explosion Image FileUncommon
+.TRIF - Bitmap imageRare
+.TRX - Firmware ImageRare
+.U3D - Universal 3D Filenot specified
+.UPX - Nova Photo Explosion Image Template FileAverage
+.URT - Utah Raster Toolkit Filenot specified
+.UTX - Unreal Texture FileAverage
+.V00 - 3D Ultrasound Imagenot specified
+.V3D - Visual3D.NET Data Filenot specified
+.VFS - HP All-in-One Thumbnail FileAverage
+.VGA - IBM OS/2 VGA Bitmap ImageAverage
+.VHD - Virtual PC Virtual Hard Disknot specified
+.VIS - Graphics Image Filenot specified
+.VRL - VRML Virtual Worldnot specified
+.VTX - Anim8or 3D Modelnot specified
+.WB1 - Webshots Picturenot specified
+.WBC - Webshots Imagenot specified
+.WBD - Webshots Picturenot specified
+.WBZ - Webshots Imagenot specified
+.WEBP - Google Image FileAverage
+.WGS - Walk-Graph Segmentnot specified
+.WI - Corel Wavelet Compressed ImageUncommon
+.WMF - Windows MetafileAverage
+.WNK - Wink Screen Capturenot specified
+.XDW - Fuji Xerox DocuWorks Filenot specified
+.XIP - Hotbar Image Compression FormatUncommon
+.XSI - Softimage XSI 3D Imagenot specified
+.X_B - Parasolid Model PartAverage
+.X_T - Parasolid Model PartAverage
+.ZDL - DesignPro Label Design FileAverage
+.ZIF - Zoomorama Image FileAverage
+.ZNO - Zinio Electronic Magazine Filenot specified
+.ZPRF - ZBrush Model FileAverage
+.ZT - Mental Ray Image Depth Filenot specified

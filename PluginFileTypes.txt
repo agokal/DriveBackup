@@ -1,0 +1,57 @@
+.8BF - Plug-in filter for Adobe-compatible paint programsAverage
+.8BI - Photoshop Plugins Formats fileVery Common
+.AMXX - AMX Mod X Plugin Filenot specified
+.API - Acrobat Plug-inAverage
+.BAV - AVG Anti-Virus The Bat! Plugin Filenot specified
+.BLU - FileMaker Pro Runtime Extensionnot specified
+.COMPONENT - Mac OS X System Componentnot specified
+.COX - Click & Create Extensionnot specified
+.CRX - Google Chrome Plugin/Extension Installer FileCommon
+.DBX - AutoCAD Database Extension ComponentAverage
+.DFP - Fusion Plugin Filenot specified
+.DPM - Pro Tools PluginAverage
+.FFX - Adobe After Effects FileAverage
+.FLB - Notepad++ FunctionList Pluginnot specified
+.FXB - VST Audio Plug-innot specified
+.FXT - Finale Plug-innot specified
+.FZIP - FoxIt Reader Add-OnAverage
+.GADGET - Windows Sidebar Gadget FileVery Common
+.GRD - Photoshop Gradient Filenot specified
+.HVPL - Apple iTunes Visual Plugin FileAverage
+.KEY - DataCAD Icon Toolbar FileAverage
+.M2P - Maxthon Web Browser Plug-innot specified
+.MFX - Multimedia Fusion Extensionnot specified
+.MILK - MilkDrop Winamp Plugin PresetUncommon
+.MXP - Macromedia Extension Plugin FileAverage
+.NY - Nyquist Plug-innot specified
+.OXT - OpenOffice.org ExtensionAverage
+.PFL - PhotoFiltre Pluginnot specified
+.PLUGIN - Mac OS X Application Plug-inVery Common
+.PPA - PowerPoint Add-inCommon
+.PPAM - Microsoft Office PowerPoint (2007+) Add in (Macro Enabled)Common
+.PPSM - Microsoft Office PowerPoint (2007+) Show (Macro Enabled)Common
+.PRM - Adobe Premiere Plugin FileCommon
+.Q1Q - LunarCell Photoshop Plug-innot specified
+.Q2Q - Flexify Photoshop Plug-innot specified
+.Q4Q - Solar Cell Photoshop Plug-innot specified
+.Q5R - Melancholytron Photoshop Plug-innot specified
+.Q7Q - India Ink Photoshop Plug-innot specified
+.Q8R - Flood Photoshop Plug-innot specified
+.Q9R - Glitterato Photoshop Plug-Innot specified
+.Q9S - Mr. Contrast Photoshop Plug-Innot specified
+.QTR - QuickTime Extension Resourcenot specified
+.RHP - Rhino Plug-innot specified
+.RWPLUGIN - RapidWeaver Plugin FileAverage
+.SA9 - Hue and Cry Photoshop Plug-Innot specified
+.SAFARIEXTZ - Apple Safari Extension Package FileAverage
+.T3X - TYPO3 Compressed Extensionnot specified
+.VBC - VodBurner Crude FileUncommon
+.VDF - VirtualDub Video FilterUncommon
+.VFZ - Video Effects Filenot specified
+.WLL - Word Add-inAverage
+.XLA - Microsoft Excel Add-inCommon
+.XLAM - Microsoft Office Excel (2007+) Add In (Macro Enabled)Common
+.XLL - Microsoft Excel add-in FileCommon
+.XLM - Microsoft Excel MacroCommon
+.XPT - Mozilla Firefox Componentnot specified
+.ZXP - Extension Manager Package FileAverage

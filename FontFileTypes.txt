@@ -1,0 +1,16 @@
+.ACFM - Adobe Font Metrics FileAverage
+.AMFM - Adobe Multiple Font Metrics Filenot specified
+.DFONT - Mac OS X Data Fork Fontnot specified
+.EOT - Embedded OpenType Fontnot specified
+.FNT - Font FileVery Common
+.FON - Font FileVery Common
+.GDF - PHP GD Library Font FileAverage
+.GDR - Symbian OS Font Filenot specified
+.GTF - German Type Foundry FontAverage
+.MMM - Adobe Type Manager Multiple-Master Metrics FontAverage
+.OTF - OpenType Font FormatVery Common
+.PFA - PostScript Printer Font ASCII FileAverage
+.TPF - Downloadable PCL Soft font filenot specified
+.TTC - TrueType Font Collection FileCommon
+.TTF - TrueType FontVery Common
+.WOFF - Web Open Font Format FileVery Common

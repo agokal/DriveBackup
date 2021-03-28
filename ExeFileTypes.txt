@@ -1,0 +1,60 @@
+.0XE - F-Secure Renamed VirusAverage
+.A6P - Authorware 6 Programnot specified
+.ACTION - Automator Action Executable FileAverage
+.APP - Application for Apple Mac OS XVery Common
+.APPLESCRIPT - AppleScript Filenot specified
+.BAT - MS-DOS Batch FileVery Common
+.CGI - Common gateway interface scriptVery Common
+.COD - BlackBerry Executable FileAverage
+.COM - Command FileVery Common
+.DEK - Eavesdropper Batch Filenot specified
+.DEX - Google Android Compiled Executable FileCommon
+.EBM - EXTRA! Basic Macronot specified
+.ELF - Executable Filenot specified
+.ES - SageCRM ScriptAverage
+.ESH - Extended Shell Batch filenot specified
+.EX4 - MetaTrader ProgramAverage
+.EXE - Executable FileVery Common
+.EXOPC - ExoPC Application FileUncommon
+.FPI - FPS Creator Intelligence ScriptAverage
+.GPE - GP2X Video Gamenot specified
+.GPU - GP2X Utility Programnot specified
+.HMS - Hostmonitor ScriptAverage
+.HTA - HTML Applicationnot specified
+.IPA - iPod/iPhone Application FileVery Common
+.ISU - Uninstall scriptAverage
+.JAR - Java Archive FileCommon
+.JSX - ExtendScript Script Filenot specified
+.KIX - KiXtart Script Filenot specified
+.MAU - Media Attachment Unitnot specified
+.MEL - Maya Embedded Language Filenot specified
+.MEM - Macro editor macronot specified
+.MRC - mIRC ScriptAverage
+.PAF.EXE - PortableApps.com Program FileCommon
+.PEX - Proboard Executable Program Filenot specified
+.PIF - Program Information FileCommon
+.PLSC - Messenger Plus! Live Script FileAverage
+.PRG - Program filenot specified
+.PS1 - Windows PowerShell CmdletAverage
+.PWC - PictureTaker Filenot specified
+.QIT - QIT Trojan HorseAverage
+.RBX - Rembo-C Compiled Scriptnot specified
+.ROX - Actuate Report Object Executable Filenot specified
+.RXE - LEGO Mindstorms NXT ExecutableAverage
+.SCAR - SCAR Scriptnot specified
+.SCB - Scala Published ScriptAverage
+.SCPT - AppleScript Script Filenot specified
+.SCT - Windows Script ComponentAverage
+.SEED - Linux Preseed Filenot specified
+.U3P - U3 Smart ApplicationAverage
+.VB - VBScript FileCommon
+.VBE - VBScript Encoded Script Filenot specified
+.VBS - VBScript Filenot specified
+.VBSCRIPT - Visual Basic Scriptnot specified
+.VLX - Compiled AutoLISP FileAverage
+.WIDGET - Yahoo! Widgetnot specified
+.WORKFLOW - Automator Workflownot specified
+.WS - Windows Scriptnot specified
+.XBE - XBOX Executable Filenot specified
+.XEX - Xbox 360 Executable FileCommon
+.XYS - XYplorer Script Filenot specified

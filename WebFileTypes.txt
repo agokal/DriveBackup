@@ -1,0 +1,56 @@
+.ARO - SteelArrow Web Application Filenot specified
+.ASHX - ASP.NET Web Handler FileCommon
+.ASP - Active Server PageVery Common
+.ASPX - Active Server Page eXtended fileVery Common
+.ATOM - Atom Syndication Formatnot specified
+.ATT - Web Form Post DataVery Common
+.AXD - ASP.NET Web Handler FileAverage
+.CHM - Microsoft Compiled HTML Help FileAverage
+.CMS - Content Management Systemnot specified
+.CSS - Cascading Style SheetVery Common
+.DCR - Shockwave FileAverage
+.DHTML - Dynamic HTML filenot specified
+.DISCOMAP - Microsoft Disco Discovery Output FileAverage
+.DOWNLOAD - Partially Downloaded Filenot specified
+.ECE - Escenic Dynamic Web Pagenot specified
+.ECE - Oracle Express Dynamic Web PageVery Common
+.EPIBRW - Web File LocationCommon
+.GNE - Flickr Web Pagenot specified
+.HTM - Hypertext Markup LanguageVery Common
+.HTML - HyperText Markup LanguageVery Common
+.HTMLS - HyperText Markup Language documentAverage
+.HXS - Help 2 Compiled Help Filenot specified
+.JCZ - Liquid Motion Animationnot specified
+.JNLP - Java Web Start FileCommon
+.JS - JavaScript Source CodeVery Common
+.JSON - JavaScript Object Notation FileCommon
+.JSP - Java Server PageVery Common
+.JSPX - XML Java Server Pagenot specified
+.JVS - JavaScript Proxy Autoconfig Filenot specified
+.JWS - Java Web Services Filenot specified
+.LASSO - Lasso Database-Driven Web Pagenot specified
+.MASTER - ASP.NET Master Pagenot specified
+.MSPX - Microsoft ASP.NET Web Pagenot specified
+.NXG - eSite Builder NXG Web Pagenot specified
+.OGNC - Dynamic Web Pagenot specified
+.PHP - Hypertext PreprocessorVery Common
+.PHP3 - PHP (Version 3) ScriptAverage
+.QRM - Qworum Message Filenot specified
+.RHTML - Ruby HTML Web Pagenot specified
+.RMD - RateMyDrawings.com Drawing Filenot specified
+.RSS - Rich Site SummaryVery Common
+.RWP - RapidWeaver Packagenot specified
+.SAVEDDECK - Nokia Saved Web Pagenot specified
+.SVC - IIS Special Content Filenot specified
+.TVPI - Television Programming InformationAverage
+.TVS - CrossFire TV ShowAverage
+.TVVI - TitanTV Television Video InformationAverage
+.UCF - WebEx Media FileCommon
+.URL - Internet ShortcutAverage
+.WEBLOC - Mac OS X Website Locationnot specified
+.WSDL - Web Services Description Language FileCommon
+.XHTML - Extensible HyperText Markup Language FileVery Common
+.XPD - XML Pipeline Documentnot specified
+.ZFO - XSL-FO Online Formnot specified
+.ZUL - ZK User InterfaceAverage
+.ZVZ - Possible Virus Filenot specified

@@ -1,0 +1,881 @@
+.102 - Omnipage OCR FileAverage
+.123 - Lotus/IBM 1-2-3 Spreadsheet FileAverage
+.123 - PCB123 Circuit Board Designnot specified
+.1PE - TurboTax Form Filenot specified
+.1PH - TurboTax Filenot specified
+.3DR - 3DMark Benchmark Result Filenot specified
+.3DT - 3D Topicscape Filenot specified
+.4DL - 4th Dimension Database Windows Log Filenot specified
+.4DV - 4D View Ultrasound Filenot specified
+.A3L - Authorware 3.x librarynot specified
+.A3M - Authorware MacIntosh File (unpackaged)not specified
+.A3W - Authorware Windows file (unpackaged)not specified
+.A4L - Authorware 4.x librarynot specified
+.A4M - Authorware MacIntosh file (unpackaged)not specified
+.A4W - Authorware Windows file (unpackaged)not specified
+.A51 - Authorware 5.x librarynot specified
+.A5L - Authorware 5.x librarynot specified
+.A5W - Authorware Windows file (unpackaged)not specified
+.A65 - Authorware 6.5 Filenot specified
+.AB - DNA Sequence Filenot specified
+.AB1 - Applied Biosystems Genetic Analysis Data Filenot specified
+.AB2 - PrintShop Address FileAverage
+.AB3 - PhotoImpact Album Filenot specified
+.AB65 - Adobe PageMaker 6.5 Documentnot specified
+.ABCD - AudioVisual Book Data Filenot specified
+.ABI - dnaLIMS ABI Trace FileAverage
+.ABP - AVS Barcode Profilenot specified
+.AC2 - Banana Accounting FileAverage
+.ACA - Microsoft Agent Character Animation Filenot specified
+.ACC - Graphics Accounts Financial Data Filenot specified
+.ACF - HTTP Character Filenot specified
+.ACG - Microsoft Agent Preview Filenot specified
+.ADB - Ability Office Database Filenot specified
+.ADT - ACT! Document Template Filenot specified
+.ADX - Lotus Approach dBase Indexnot specified
+.AFT - Ancestry Genealogy Database Filenot specified
+.AGD - AgileGraph Datanot specified
+.AIF - QuickBooks Accountant's Copy Import Filenot specified
+.AIFB - AIF Builder Project Filenot specified
+.ALC - Dynamics AX Label Descriptionnot specified
+.ALD - Dynamics AX Application Label DataAverage
+.ALI - Dynamics AX Label IndexAverage
+.AMB - AIMMS Model Filenot specified
+.AMC - Wireless Analyzer Captured Datanot specified
+.AMSORM - OnLine Ringman Auction Filenot specified
+.AN1 - Street Atlas Draw Filenot specified
+.ANM - DeluxePaint 3D AnimationUncommon
+.AOF - Artlantis Object FileAverage
+.APS - Resource Script (Binary version) FileAverage
+.ARC - Symbian Device Backup FileAverage
+.ASK - AskSam Databasenot specified
+.ASM - Solid Edge Documentnot specified
+.ASND - Adobe Sound DocumentAverage
+.AST - Claris Works "Assistant" filenot specified
+.AT5 - Lowrance Map Navigation FileAverage
+.AVD - Avery LabelPro Database FileUncommon
+.AWG - Activeworlds Object Group Filenot specified
+.AXD - Autodesk Actrix Technical 2000 Filenot specified
+.BAFL - BurnAware File Listnot specified
+.BCI - Advisor Computer Profile Reportnot specified
+.BCM - Business Contact Manager Filenot specified
+.BCMX - Business Contact Manager Customizationnot specified
+.BDF - Binary Data Filenot specified
+.BDIC - Chrome Dictionary Filenot specified
+.BDM - AVHCD InformationAverage
+.BEX - BrowserBob Export FileAverage
+.BGL - Babylon Glossary Filenot specified
+.BGT - Budget Data Filenot specified
+.BIN - Binary FileVery Common
+.BJO - Tabledit Tablature Filenot specified
+.BK - FrameMaker Book Filenot specified
+.BKK - BookBuddi eBook Filenot specified
+.BKR - Boardmaker : DocumentAverage
+.BKT - Shredder opening booksnot specified
+.BLB - Blob Data Filenot specified
+.BLD - Envisioneer Building ProjectUncommon
+.BLG - Windows Performance Log FileAverage
+.BLOB - Valve Steam ArchiveVery Common
+.BOK - TestGen Testbank FileAverage
+.BOX - Lotus Notes E-Mail Filenot specified
+.BPD - Business Plan Pro Data FileAverage
+.BRD - EAGLE Circuit Board Layout FileUncommon
+.BSDL - Boundary Scan Description LanguageAverage
+.BTF - Nations Bank Check Filenot specified
+.BTIF - Nations Bank Check Image Filenot specified
+.BTM - BizTalk Map Filenot specified
+.CA - Telnet Server Initial Cache Data FileRare
+.CAL - Calendar Schedule Data Filenot specified
+.CAP - Network Packet Capture Filenot specified
+.CAT - dBase IV Catalognot specified
+.CBG - CyberGauge Data Filenot specified
+.CCH - Corel Chartnot specified
+.CCR - ASTM Continuity of Care Record Filenot specified
+.CCT - Macromedia Director Shockwave cast fileUncommon
+.CDB - Microsoft Mobile Pocket Access FileAverage
+.CDB - Symbian Contacts Database FileCommon
+.CDD - Conceptdraw Drawingnot specified
+.CDF - Comma Delimited Formatnot specified
+.CDF - Computable Document FormatUncommon
+.CDF - Content Definition FileAverage
+.CDP - CD/Spectrum Pronot specified
+.CDR - Crash Data Retrieval Filenot specified
+.CDV - ClamAV Virus Definitions Filenot specified
+.CDX - Compound IndexAverage
+.CEL - BATTERY 3 Drum Cell Filenot specified
+.CELTX - Celtx Project Filenot specified
+.CER - Internet Security Certificate FileVery Common
+.CFL - IMVU Product FileAverage
+.CFR - ColdFusion Report FileAverage
+.CHG - Quicken Online Data Filenot specified
+.CHK - InterCheck Checksum Database Filenot specified
+.CHN - Ethnograph Data Filenot specified
+.CKD - Kubotek Design Containernot specified
+.CLIX - CLIX Command Filenot specified
+.CLP - Windows Clipboard FileAverage
+.CLPI - Blu-Ray Clip InformationVery Common
+.CMBL - Logger PRO Datanot specified
+.CMDF - CrystalMaker Data FileUncommon
+.CNA - Catena Project Filenot specified
+.CNF - Canberrra CNF Spectrum FileUncommon
+.CONTACT - Windows Contact Information Filenot specified
+.CPMZ - ConPro Project Filenot specified
+.CPR - Corel Presents presentationAverage
+.CRB - BigOven Recipe Box FileAverage
+.CRD - Microsoft Windows 3.x Cardfilenot specified
+.CRE - Cresus Accounting FileUncommon
+.CRMLOG - WIN Registration fileAverage
+.CRTX - Office 2007 Chart TemplateAverage
+.CSA - Comma Deliminated Textnot specified
+.CSA - PNA Code Calset Filenot specified
+.CSV - Comma Separated Value Data FileVery Common
+.CTF - WhereIsIt Catalognot specified
+.CTM - CrazyTalk Character FileAverage
+.CTM - Media FileAverage
+.CTT - Windows Live Messenger/MSN Saved Contact ListCommon
+.CURSORFX - CursorFX Theme Filenot specified
+.CURXPTHEME - CursorXP Theme Filenot specified
+.CVA - HP Systems Software Manager Information FileCommon
+.CVD - ClamAV - Virus Definition Filenot specified
+.CVN - CineVision Encoding Sessionnot specified
+.CWK - Claris Works Data FileAverage
+.CWS - Claris Works Templatenot specified
+.CWZ - Circuit Wizard Filenot specified
+.CXT - Macromedia Director Protected Cast Filenot specified
+.CYO - Clustify Output Filenot specified
+.CYS - Clustify Summary Filenot specified
+.DAF - Digital Anchor Data Filenot specified
+.DAL - DVD-lab Project Filenot specified
+.DAM - DeltaMaster Analysis Modelnot specified
+.DAS - DeltaMaster Analysis Session Filenot specified
+.DAT - Data (General)Very Common
+.DB4 - Dbase 4 dataAverage
+.DBC - Microsoft Visual FoxPro Database Container FileAverage
+.DBD - DemoShield PlayerAverage
+.DBS - Win EWP Subsidiary Consolidation FileUncommon
+.DBX - Visual Foxpro TableAverage
+.DCF - Document Computation Format Data Filenot specified
+.DCL - DumpSec Reportnot specified
+.DCM - DiskCatalogMaker Filenot specified
+.DCMD - DiskCatalogMaker Thumbnail Catalognot specified
+.DDC - DivX Descriptor Filenot specified
+.DDCX - DivX Descriptor 2 Filenot specified
+.DES - QuickBooks Forms Templatenot specified
+.DEX - DEXIS Digital X-ray Image FileUncommon
+.DEX - Excel Spreadsheet Filenot specified
+.DFM - Midas ViewPoint Display Formnot specified
+.DFPROJ - DVD Flick Projectnot specified
+.DFT - Solid Edge Draft Documentnot specified
+.DGB - FlashCAD Drawing DatabaseAverage
+.DICPROOF - Microsoft Dictionary Proofing FileUncommon
+.DIF - Data Interchange FormatCommon
+.DII - Summation Batch Load Filenot specified
+.DINFO - DivX Temporary Video InformationVery Common
+.DLG - Digital Line Graphnot specified
+.DM2 - Toad Data Modeler 2 Filenot specified
+.DML - Data Manipulation Language FileVery Common
+.DMO - Demo filenot specified
+.DMO - Movienizer Database Filenot specified
+.DMSA - Music Disc Creator ProjectCommon
+.DMSE - Sound Editor Project FileAverage
+.DMSP - PhotoSuite ProjectAverage
+.DMSS - VideoWave Slideshow ProjectAverage
+.DNC - Dance Database FileAverage
+.DOCKZIP - ObjectDock Filenot specified
+.DP1 - DataPower Database Filenot specified
+.DPN - Depiction Data Filenot specified
+.DRL - Gerber Drill Rack Filenot specified
+.DSB - Orchida Embroidery Data Filenot specified
+.DSD - Drawing Set DescriptionAverage
+.DSK - Simple IDs Database Filenot specified
+.DSN - Orcad Schematic FileAverage
+.DSY - AJC Directory Synchronizer Project Filenot specified
+.DSZ - Orchida Embroidery Data Filenot specified
+.DT0 - DTED - Level 0 Filenot specified
+.DT1 - DTED - Level 1 Filenot specified
+.DT2 - DTED - Level 2 Filenot specified
+.DTA - Chain Engineering Database Filenot specified
+.DTR - DATroniC Data Recording Filenot specified
+.DVDPROJ - iDVD Project Filenot specified
+.DWI - Dance With Intensity - Song Data FileAverage
+.DWM - Dictionary Database FileAverage
+.DWM - Digital Works Circuit FileAverage
+.DWP - SharePoint Webpart Exchange Filenot specified
+.DWS - Eppendorf epBlue epMotion FileUncommon
+.DWT - Dreamweaver TemplateAverage
+.E00 - Arcinfo Coverage Export Filenot specified
+.EAP - Enterprise Architect Project Filenot specified
+.EBO - Microsoft Reader Ebook Formatnot specified
+.EBUILD - Portage eBuild Scriptnot specified
+.EC0 - MetroCount Traffic Datanot specified
+.ECC - dvdisaster Error Correction FileAverage
+.ECO - ECCO Databasenot specified
+.ECW - EasyCAD Drawing FileRare
+.ECX - ECCO Corrupted Database Filenot specified
+.EDB - ROOTS3 Genealogical Data FileAverage
+.EDF - Estimator Data Filenot specified
+.EEP - EEPROM Data Filenot specified
+.EFTX - Office 2007 Theme Effect FileCommon
+.EFX - eFax DocumentVery Common
+.EMB - Embedded Bank Filenot specified
+.EMB - Embroidery Design Filenot specified
+.EMD - ChessBase Tablebase Filenot specified
+.EMLXPART - Mail Message Attachmentnot specified
+.EMM - eminec MYmap Filenot specified
+.EMP - eMusic Playlist FileCommon
+.ENC - Electronic Navigation Chartnot specified
+.ENL - EndNote Library FileAverage
+.ENLX - EndNote Compressed Library FileAverage
+.ENS - Enable Spreadsheet (V3, 4 and 4.5)Average
+.ENS - EndNote Output StyleAverage
+.ENW - EndNote Citation FileAverage
+.ENZ - EndNote Connection FileAverage
+.EPP - EditPad Pro ProjectAverage
+.EPP - Efficient PPC Project Filenot specified
+.EPP - TalaPhoto Project Filenot specified
+.EPUB - Electronic Publishing eBook FileVery Common
+.EPW - EnergyPlus Weather Data Filenot specified
+.ER1 - ERWin fileAverage
+.ESM - Digital Tachograph Smart Card FileAverage
+.ESP - ACD/Labs Datasetnot specified
+.ESS - EasySpreadsheet Spreadsheetnot specified
+.EST - Cost Estimate Filenot specified
+.EST - Streets and Trips Map FileAverage
+.ET - Easiteach Lesson FileUncommon
+.ETA - Google Earth Placemarknot specified
+.ETD - Acrobat eBook Reader EBX Transfer Data Filenot specified
+.ETL - Microsoft Event Trace Log Filenot specified
+.EV - Echoview Filenot specified
+.EVY - Envoy Filenot specified
+.EXP - Aurora Expert Trace Filenot specified
+.EXP - Viscal C++ Export FileVery Common
+.EXX - Linkway MsgPut Filenot specified
+.F09 - FutureTax Tax FileUncommon
+.FA - FASTA Formatted Sequence Filenot specified
+.FASTA - FASTA Sequence Filenot specified
+.FBL - iGO Map FileAverage
+.FCD - First Choice Databasenot specified
+.FCS - First Choice Spreadsheetnot specified
+.FDB - Portfolio Cataloguenot specified
+.FFD - Flat File Descriptionnot specified
+.FFWP - FormsForWeb Packetnot specified
+.FHC - FHC Data Filenot specified
+.FHZ - ACS Firehouse FileAverage
+.FID - File Expander Engine Descriptions Databasenot specified
+.FIL - File List ObjectUncommon
+.FILE - IBM System i (AS/400) Physical Filenot specified
+.FLAME - Fractal Flame Configuration FileUncommon
+.FLL - FoxPro Runtime Dynamic-Link Librarynot specified
+.FLO - FlowChart Filenot specified
+.FLP - ACTIVprimary Flipchart FileUncommon
+.FLT - Open Flight FileAverage
+.FM - FileMaker Spreadsheetnot specified
+.FM5 - FileMaker 5 Databasenot specified
+.FMP - Document fileAverage
+.FMP - FileMaker Pro Databasenot specified
+.FO - XSL-FO Formnot specified
+.FOB - Dynamics NAV Object Container Filenot specified
+.FOL - Microsoft Windows Mail FileCommon
+.FOP - InfoZoom Protected Data Filenot specified
+.FOX - InfoZoom Data Filenot specified
+.FP - FileMaker Pro FileAverage
+.FP3 - FileMaker Pro v.3 & 4 document fileAverage
+.FPW - FloorPlan Drawing FileAverage
+.FRL - Electronic Form Loader Filenot specified
+.FRM - Form (Generic)Average
+.FRM - MySQL Database Format Filenot specified
+.FRO - dBASE Compiled ReportAverage
+.FRX - FoxPro ReportAverage
+.FSB - FMOD Sample Bank Formatnot specified
+.FSC - Practical Scriptwriter Filenot specified
+.FTM - Family Tree Maker FileAverage
+.FTW - Family Tree Maker FileAverage
+.G10 - Map Filenot specified
+.GAN - GanttProject Project Filenot specified
+.GBF - Data FileAverage
+.GBOOK - The Guest Book Egbook fileUncommon
+.GBR - Gerber Filenot specified
+.GC - GraphClick Filenot specified
+.GCX - Grapher Graph Filenot specified
+.GED - GEDCOM Genealogy Filenot specified
+.GEDCOM - GEDCOM Genealogy Datanot specified
+.GEX - GEcho Config Filenot specified
+.GGB - GeoGebra Documentnot specified
+.GML - Geography Markup Language Filenot specified
+.GMP - Garmin GlobalMapper Package FileCommon
+.GMP - Geomorph Tile Map FileRare
+.GMS - Gesture and Motion Signal Filenot specified
+.GNP - GNPeak Output Filenot specified
+.GNT - EBNEuro eeg Waveform Filenot specified
+.GP3 - Guitar Pro 3 Tablaturenot specified
+.GP4 - Guitar Pro 4 Tablaturenot specified
+.GP5 - Project / Tablature FileAverage
+.GPX - GPS Exchange FormatVery Common
+.GRA - Microsoft Graph ChartAverage
+.GRADE - GradeStat Documentnot specified
+.GRF - Graphnot specified
+.GRIB - Gridded Binarynot specified
+.GRK - Gradekeeper Class Gradebook Filenot specified
+.GRL - Windows Update StatusVery Common
+.GRR - Gradekeeper Class Roster Filenot specified
+.GRX - GetRight File Listnot specified
+.GS - GemStone Documentnot specified
+.GST - MapInfo Geoset Filenot specified
+.GST - Quikcutz Silhouette FileUncommon
+.GTM - GPS trackMaker - Map FileAverage
+.GTP - Guitar Pro Filenot specified
+.GWK - GraphiCode PCB Job Filenot specified
+.GWS - WindSim Terrain Filenot specified
+.GXL - Graph eXchange Language Filenot specified
+.HCC - HydroCAD Prefab Chamber Data Filenot specified
+.HCE - HydroCAD Hydrograph Data Filenot specified
+.HCI - HydroCAD IDF Data Filenot specified
+.HCP - HydroCAD Project Filenot specified
+.HCU - Hydrograph Units Definitons Filenot specified
+.HDA - HotDocs Documentnot specified
+.HDA - HyperData Filenot specified
+.HDF - Hierarchical Data Format Filenot specified
+.HDI - HotDocs Auto-Install Filenot specified
+.HDL - HotDocs Listingnot specified
+.HFX - Hollywood FX Special Effects FileAverage
+.HGT - NASA SRTM Terrain Data FileAverage
+.HIF - AutoCAD Heidi Information FileUncommon
+.HIF - Quicken Intuit Online Filenot specified
+.HL - HeuristicLab Storage Filenot specified
+.HML - HostMonitor TestList Filenot specified
+.HMT - HighMAT Filenot specified
+.HPR - ATLAS.ti 4 Project FileAverage
+.HRM - POLAR Medical Data FileUncommon
+.HS2 - HyperRESEARCH 2 Study Filenot specified
+.HSK - Huskey Truss & Building Supply Import Filenot specified
+.HST - History Filenot specified
+.HT - HyperTerminalAverage
+.HUH - HydroCAD Unit Hydrograph Definitions Filenot specified
+.I5Z - IUCLID 5 Import/Export Filenot specified
+.IB - InterBase Databasenot specified
+.ICMA - Adobe InDesign InCopy Assignment FileCommon
+.ICMS - Cisco IPCC Export FileUncommon
+.ICS - iCalendar Calendar Data FileAverage
+.ICV - InfoCaptor Dashboard FileAverage
+.ID2 - Windows Live Messenger Emoticon Filenot specified
+.IDT - Text Archive FilesUncommon
+.IDX - Navigation POI FileAverage
+.IES - Light Pattern Filenot specified
+.IFD - JetForm Design Form FileUncommon
+.IGC - Anime List Builder Input Filenot specified
+.IHX - IN-HEH Timeline Databasenot specified
+.II - IconWorkshop Extended Information Filenot specified
+.IIF - Intuit Interchange FileAverage
+.IMA - IncrediMail Package/CollectionUncommon
+.IMC - IncrediMail CollectionUncommon
+.IMF - IncrediMail Stats/LettersUncommon
+.IMG - Garmin Map FileAverage
+.IMI - Magellan Map FormatAverage
+.IMN - IncrediMail NotifiersUncommon
+.INDS - Adobe InDesign Snippet FileCommon
+.INK - Mimio Ink Datanot specified
+.INP - ABAQUS Input Filenot specified
+.INS - Inspiration Filenot specified
+.IP - IconPackager Icon Setnot specified
+.IROCK - intelliRock Sensor Data Filenot specified
+.IRP - Report Generator Output FileUncommon
+.IRR - Brewer Lamp Filenot specified
+.IRX - Brewer Lamp Irradiation FileUncommon
+.ISF - Inspiration Mind Mapping (Flowchart) Filenot specified
+.ITE - Apple iTunes ExtrasAverage
+.ITL - iTunes Music Library Filenot specified
+.ITM - iThink Model FileUncommon
+.ITN - TomTom Navigator Itinerary FileAverage
+.ITW - IT Works Application Data Filenot specified
+.ITX - ITX Form Templatenot specified
+.IVT - Beyond Table Datanot specified
+.IW - Chain Engineering Databasenot specified
+.JEF - Janome Sewing Machine Embroidery Filenot specified
+.JN1 - Jill of the Jungle Datanot specified
+.JNT - Windows Journal Notesnot specified
+.JOBOPTIONS - Acrobat Job Options FileAverage
+.JOINED - HJ-Split Data FileAverage
+.JOU - VAX EDT Editor Journal BackupAverage
+.JPH - JProbe Memory Snapshotnot specified
+.JRPRINT - JasperReports Print FileAverage
+.JRXML - JasperReports Layout Filenot specified
+.JTD - Ichitaro Document FileAverage
+.JUDE - JUDE Project Filenot specified
+.KAP - BSB Chart Image Filenot specified
+.KEY - Keynote Presentation FileVery Common
+.KID - Kidspiration Filenot specified
+.KISMAC - KisMAC Webservice Filenot specified
+.KMZ - Google Earth PlacemarkCommon
+.KPF - Komodo Project Filenot specified
+.KPP - Kid Pix Presentationnot specified
+.KPR - KPresenter Presentationnot specified
+.KPX - Kid Pix Picturenot specified
+.KPZ - Komodo Template Filenot specified
+.KT3 - Battery 3 Drum KitAverage
+.L - Game of Life Data Filenot specified
+.L6T - Line 6 Tone Filenot specified
+.LBL - LabelAverage
+.LBX - FoxPro Labelsnot specified
+.LCF - ArchiCAD Library Container FileAverage
+.LCM - Lipikar Custom Map Filenot specified
+.LDB - Microsoft Access Lock FileAverage
+.LDIF - LDAP (Data Interchange Format) Filenot specified
+.LEX - Spelling Checker DictionaryAverage
+.LGC - SimpleK Database Filenot specified
+.LGI - Multimedia Logic Filenot specified
+.LGL - Large Graph Layout Filenot specified
+.LIB - LibraryAverage
+.LIF - Logical Interchange DataAverage
+.LIF - TurboTax Information Achive Filenot specified
+.LIVEUPDATE - Norton Anti-Virus Update Settings FileAverage
+.LIX - ExtendSim Simulation Software Library Filenot specified
+.LIX - Logos Library System FileAverage
+.LLB - National Instruments LabVIEW Librarynot specified
+.LMS - LenMus Score Filenot specified
+.LMX - Landmark Exchange Filenot specified
+.LNT - LiveNote Transcript filenot specified
+.LOC - Locations FileUncommon
+.LOG - TeX/LaTeX FileAverage
+.LP7 - LP7 Digitally Signed Filenot specified
+.LRS - Librie Reader Source Filenot specified
+.LSF - Logos library system fileAverage
+.LSL - LightScribe Label Filenot specified
+.LSP - LANsurveyor Poll Listnot specified
+.LSR - LANsurveyor Reportnot specified
+.LST - LightScribe Label Templatenot specified
+.LSU - LANsurveyor Mapnot specified
+.LW4 - Lightwright Filenot specified
+.LY - LilyPond Filenot specified
+.MAD - Microsoft Access Module ShortcutAverage
+.MAG - Magic Circuit Layoutnot specified
+.MAI - Microsoft Mail FileVery Common
+.MASSEFFECTPROFILE - Mass Effect Player ProfileVery Common
+.MAT - Matlab Variables Binary Filenot specified
+.MB - Memo field values for databaseAverage
+.MBG - Microsoft Mail MailBag Filenot specified
+.MBL - Logger Pro Data Filenot specified
+.MBP - MobiPocket FileAverage
+.MBX - Microsoft Outlook Express MailBoxnot specified
+.MC1 - MedCalc Data Filenot specified
+.MC9 - Mastercam 9 Geometry Filenot specified
+.MCA - MapFactor GPS Navigation FileUncommon
+.MCD - MathCAD DocumentAverage
+.MCW - MacWord Document FileCommon
+.MDL - Simulink Model Filenot specified
+.MDS - SeeYou Raster MapUncommon
+.MDT - MS Access Add-in Datanot specified
+.MDX - dBase Index FileAverage
+.MED - Macro editor delete save fileAverage
+.MENC - Windows Mobile Encrypted FileCommon
+.META - RealPlayer MetaFileAverage
+.METASTOCK - Metastock Data Formatnot specified
+.MFO - Perl ModInfo Descriptor Filenot specified
+.MM - FreeMind Mind Mapnot specified
+.MMAP - MindManager Map FileAverage
+.MNC - My Notes Center Notebooknot specified
+.MNK - My Notes Keeper Notebooknot specified
+.MOBI - Mobipocket eBookAverage
+.MODD - Sony Video Information/Summary FileCommon
+.MOHO - Anime Studio Animation Projectnot specified
+.MOL - Symyx MDL MolfileUncommon
+.MOSAIC - MacOSaiX Mosaic Filenot specified
+.MPCPL - Media Player Classic Playlist Filenot specified
+.MPL - AVCHD PlaylistAverage
+.MPLS - Blu-Ray Movie PlaylistVery Common
+.MPP - Microsoft Project FileCommon
+.MQ4 - MetaTrader Custom Indicatornot specified
+.MQO - Metasequoia 3D Model FileAverage
+.MRS - Macro resource fileAverage
+.MS10 - Multisim Circuit Designnot specified
+.MS3D - MilkShake 3D ModelAverage
+.MSD - Advanced Key and Mouse Recorder Macro FileAverage
+.MSF - Netscape Mail Summary FileAverage
+.MSRCINCIDENT - Remote Assistance RequestAverage
+.MVL - 3D Ultrasound FileUncommon
+.MVP - MediaView ProjectAverage
+.MWX - Mapguide Author Map Window XMLAverage
+.MYI - MySQL MyISAM Index Filenot specified
+.NB - Mathematica Notebook FileAverage
+.NBI - Nero BackItUp and Burn InformationAverage
+.NDK - Lotus Notes Design Elements Filenot specified
+.NDX - dBASE Index fileAverage
+.NET - netViz Project Filenot specified
+.NETA - Netica Binary Filenot specified
+.NFC - Nokia PC Suite Content Copier FileCommon
+.NFT - NetObjects Fusion Template fileAverage
+.NITF - National Imagery Transmission Formatnot specified
+.NMIND - NovaMind Mind Map Filenot specified
+.NOT - Musical Notation Filenot specified
+.NOTEBOOK - SMART Notebook FileUncommon
+.NP - Portfolio NetPublish Filenot specified
+.NPL - Nokia Playlist Filenot specified
+.NPR - Nuendo ProjectAverage
+.NPT - Portfolio NetPublish Templatenot specified
+.NRG - Norton Registration EntriesAverage
+.NRW - Nero - WMA Compliation Filenot specified
+.NSO - NetStudio Document fileUncommon
+.NSQ - NScheduler Data FileAverage
+.NSX - Lotto Pro Winnings FileAverage
+.NTX - Index Filenot specified
+.NUMBERS - Numbers Spreadsheet FileAverage
+.NVL - UniChem Results Filenot specified
+.NYF - myBase Database Filenot specified
+.OAB - MS Outlook Address BookAverage
+.OBJ - Relocatable Object Codenot specified
+.ODF - Open Document Interchange Format (ODIF)not specified
+.ODP - OpenDocument PresentationAverage
+.ODS - Open Document SpreadsheetVery Common
+.ODX - BizTalk Server Orchestration Filenot specified
+.OEACCOUNT - Windows Media AccountCommon
+.OFC - Open Financial Connectivity Filenot specified
+.OFM - Embroidery Design Filenot specified
+.OFT - Outlook Templatenot specified
+.OGL - Objective Grid LayoutUncommon
+.OMCS - Office Manager Access Filenot specified
+.OMP - Office Manager Document Archivenot specified
+.OMX - OtsTurntables Audio Detail FileUncommon
+.OND - Lotus Notes Memo Filenot specified
+.ONE - OneNote Documentnot specified
+.ONEPKG - Data FileAverage
+.OO3 - OmniOutliner 3 Filenot specified
+.OPF - FlipViewer FlipBook Filenot specified
+.OPX - Office Organisation ChartAverage
+.OR2 - IBM Lotus Organizer (v2) FileAverage
+.OR3 - IBM Lotus Organizer (v3) Filenot specified
+.OR4 - IBM Lotus Organizer (v4) Filenot specified
+.OR5 - IBM Lotus Organizer (v5) Filenot specified
+.OR6 - IBM Lotus Organizer (v6) Filenot specified
+.ORG - Lotus Organiser Filenot specified
+.ORG2+ - Lotus Organiser Filenot specified
+.ORX - RadiantOne VDS Database Schemanot specified
+.OSP - Open Stages Scenery FileAverage
+.OTLN - Opal Outline Filenot specified
+.OTS - OpenDocument Spreadsheet Templatenot specified
+.OVA - Octava Musical Scorenot specified
+.OVF - Open Virtualization Filenot specified
+.P96 - Win96 Database Filenot specified
+.P97 - Win97 Database Filenot specified
+.PAB - Personal Address Booknot specified
+.PBA - PersonalBrain XMLnot specified
+.PBB - MS Mail Address Information Filenot specified
+.PC3 - AutoCAD Plotter Configuration FileUncommon
+.PCAP - WireShark Network Analysis FileAverage
+.PCB - Application data fileVery Common
+.PCL - Printer Control Language fileCommon
+.PD4 - Windows Live! Photo Gallery InformationAverage
+.PD5 - Windows Live Photo Gallery Information FileAverage
+.PDAS - PDAStore Data Store Filenot specified
+.PDB - 3Com Palmpilot Database FileAverage
+.PDS - NASA Planetary Data Systemnot specified
+.PDX - Acrobat Acrobat Catalog IndexAverage
+.PDX - Adobe PageMaker Printer DescriptionUncommon
+.PED - Program Editor delete save fileUncommon
+.PEP - TurboProject Project Filenot specified
+.PET - Program Editor top overflow fileAverage
+.PFC - AOL Personal File Cabinet FileUncommon
+.PFL - Family Lawyer Documentnot specified
+.PHL - Amazon Kindle Popular Highlights FileCommon
+.PHM - Pro Home Data Filenot specified
+.PIS - PS2DIS Project Filenot specified
+.PJ4 - DAVKA PJ4 Hebrew Document FileAverage
+.PJ5 - DAVKA PJ5 Hebrew Document FileAverage
+.PKA - Cisco Packet Tracer Activity FileAverage
+.PKB - QuickPOS (Point-Of-Sale) Keyboard Layout FileRare
+.PKH - Oracle Package Filenot specified
+.PKS - Oracle Package Spec Filenot specified
+.PKT - Packet Tracer Network Simulation FileAverage
+.PLE - Messenger Plus! Live Encrypted Log FileAverage
+.PLSK - Messenger Plus! Live Skin PackCommon
+.PLW - PicoLog Data Filenot specified
+.PMD - Adobe PageMaker 7.x fileAverage
+.PML - Windows NT Performance Monitor Log FileAverage
+.PMR - Windows NT Performance Monitor ReportUncommon
+.PNPROJ - Programmer's Notepad Project Filenot specified
+.PNPT - Programmer's Notepad Project Templatenot specified
+.PNS - Popnoggin Subject Filenot specified
+.POB - Punch! 3D CAD Graphic FileUncommon
+.POSTAL - TomTom Postal Code Filenot specified
+.POT - MS PowerPoint Templatenot specified
+.POTM - Microsoft Office PowerPoint (2007+) Template (Macro Enabled)Common
+.POTX - Microsoft Office PowerPoint (2007+) TemplateCommon
+.PP2 - PingPlotter Data Filenot specified
+.PPM - Flipnote Studio Animation FileAverage
+.PPP - Serif Page Plus Project FileAverage
+.PPS - Microsoft PowerPoint Slide ShowVery Common
+.PPT - Microsoft PowerPoint PresentationVery Common
+.PPTM - Microsoft Office PowerPoint (2007+) Presentation (Macro Enabled)Common
+.PPZ9 - PowerPoint WizardUncommon
+.PREL - Premiere Elements ProjectAverage
+.PRN - Page Layout FileCommon
+.PRO - Punch! Home Design FileAverage
+.PRS - Harvard Presentation Filenot specified
+.PRV - VUE Collection Database FileUncommon
+.PSA - Photoshop Albumnot specified
+.PSM - Solid Edge Sheet Metal Design FileAverage
+.PST - Microsoft Outlook Personal Folder FileVery Common
+.PTK - Quicken Intuit Online Data FileAverage
+.PTL - Adobe Premiere Title FileCommon
+.PTN - PaperPort Thumbnailnot specified
+.PTX - RealLegal Portable E-Transcript Viewer FileAverage
+.PTZ - E-Transcript BundleAverage
+.PUB - Microsoft Publisher DocumentVery Common
+.PUP - PlayStation 3 Update Filenot specified
+.PVL - Instalit Library Filenot specified
+.PWD - Print Workshop Design FileAverage
+.PWZ - PowerPoint wizardCommon
+.PXT - Microsoft Pocket Excel Template FileCommon
+.Q08 - QuickTax 2008 Tax ReturnVery Common
+.Q09 - QuickTax 2009 Tax ReturnAverage
+.QBW - QuickBooks Company Filenot specified
+.QDAT - QuickTime Installer Cache FileAverage
+.QDF - Quicken Data fileAverage
+.QDFM - Quicken Data File (Macintosh)not specified
+.QEL - Quicken Electronic Library Filenot specified
+.QIF - Quicken Interchange FormatCommon
+.QPB - Quicken Payroll Filenot specified
+.QPF - Quartus II Project Filenot specified
+.QPH - Quicken Price History Filenot specified
+.QPM - Quick Pallet Maker Input Datanot specified
+.QPW - Quattro Pro Spreadsheet FileAverage
+.QRP - COW2000 Report FileAverage
+.QTX - Quicken Tax Planning Datanot specified
+.QWC - QuickBooks Web Connector FileAverage
+.QXP - QuarkXpress Project FileCommon
+.RAL - WinRail Track Design Filenot specified
+.RBT - Lego MINDSTORMS NXT Programnot specified
+.RCPROJECT - iMovie 08 ProjectAverage
+.RDX - Reflex Data Filenot specified
+.REL - ACT! Alarm Data FileAverage
+.RELS - Microsoft Office 2007 Relationships FileCommon
+.RF1 - Retirement Forecast Filenot specified
+.RFA - Revit Family Filenot specified
+.RFD - FRAMECAD Detailer Filenot specified
+.RGO - RepliGo Filenot specified
+.RH - Right Hemisphere 3D CAD Drawing FileUncommon
+.RMP - Map Filenot specified
+.RNQ - Renque Model Filenot specified
+.ROD - Actuate Report Object Design Filenot specified
+.ROG - Roger 2 Input Data Filenot specified
+.ROI - Report Object Instancenot specified
+.ROI - Shark Sales System Data Filenot specified
+.ROU - Gerber Route Filenot specified
+.RPL - NOKIA RePLy Message Filenot specified
+.RRT - Rhapzodé Resource Templatenot specified
+.RSK - RiskMan Risk Project FileAverage
+.RSW - R&R SQL Report Writer Report Filenot specified
+.RTE - Navigation Routenot specified
+.RWSW - RapidWeaver SiteAverage
+.RX - Borland Reflex DatabaseUncommon
+.RZB - Red Zion Book Filenot specified
+.S85 - Sabre Airline Solutions Chartnot specified
+.SAH - SETI@Home Data Filenot specified
+.SAS7BDAT - SAS system data setAverage
+.SBD - SignBlazer Elements FileUncommon
+.SBF - Sony Ericsson Backup FileUncommon
+.SBI - Spybot - Search & Destroy Spyware Include FileCommon
+.SBP - Digital Scrapbook Artist FileAverage
+.SBS - Spybot - Search & Destroy Spyware Supplemental FileCommon
+.SC - SignCut Drawing FileUncommon
+.SCA - Norton Anti-Virus Scan Filenot specified
+.SCT - Honeywell Smartline Configuration Toolkit Data Filenot specified
+.SDB - OpenOffice.org Base DatabaseVery Common
+.SDC - OpenOffice SpreadsheetAverage
+.SDP - Session Description Protocol FileAverage
+.SDQ - SAS Data Filenot specified
+.SDS - Applied Biosystems Genetic Analysis Data FileAverage
+.SEL - System Event Log FileAverage
+.SGML - Standard Generalized Markup Languagenot specified
+.SGT - Sage Graphical Template FileAverage
+.SHS - Shell Scrap Object FileRare
+.SHX - Shapefile Spatial Index Filenot specified
+.SIB - Sibelius Sheet Music FileAverage
+.SIM - DICOM CT Scan ImageUncommon
+.SKC - SKCARD SideKick for WindowsRare
+.SKCARD - SideKick for Windows Card FileRare
+.SKV - Semicolon Separated Values Filenot specified
+.SKV - XLANG Schedule Drawing Filenot specified
+.SKX - XLANG Schedule Filenot specified
+.SLD - AutoCAD Slide FileAverage
+.SLDM - Microsoft Office PowerPoint (2007+) Slide (Macro Enabled)Common
+.SLDX - Microsoft Office PowerPoint (2007+) SlideCommon
+.SLE - Sisulizer Package Filenot specified
+.SLK - SYmbolic LinK (SYLK) Spreadsheetnot specified
+.SMT - Samsung Phone Theme FileUncommon
+.SMU - Simple Musical ScoreAverage
+.SNT - Microsoft Sticky Notes FileCommon
+.SOUNDPACK - SoundPackager Sound Packagenot specified
+.SPJ - PhotoStage SlideshowAverage
+.SPO - SPSS Statistical Data Output FileAverage
+.SPUB - Disc Cover Filenot specified
+.SPV - SPSS Output FileAverage
+.SQ - Sysquake Programnot specified
+.SQR - Structured Query Language (SQL) Program Filenot specified
+.STEP - STEP 3D CAD Model Data Exchange FormatAverage
+.STL - Macromedia Fireworks Style LibraryUncommon
+.STP - STEP 3D CAD Model Exchange FormatAverage
+.STR - Structure List Object Filenot specified
+.STU - Pinnacle Studio ProjectAverage
+.STYK - Stykz Stick Figurenot specified
+.STYKZ - Stykz AnimationAverage
+.SWK - StudyWorks Save Filenot specified
+.SXC - OpenOffice.org SpreadsheetAverage
+.SXI - StarOffice Impress Presentationnot specified
+.SYS-OLD - Cygwin Term Info FileRare
+.T03 - TaxCut 2003 Filenot specified
+.T04 - TaxCut 2004 Filenot specified
+.T05 - TaxCut 2005 Tax Returnnot specified
+.T06 - TaxCut 2006 Tax Returnnot specified
+.T07 - TaxCut Tax Return Filenot specified
+.T09 - At Home 2009 Tax ReturnCommon
+.T3001 - TARGET 3001! Circuit Design Project Filenot specified
+.T3D - Unreal Engine 3D ObjectAverage
+.TAJIMA - Tajima DST file formatRare
+.TAX - TurboTax FileAverage
+.TAX2008 - TurboTax 2008 Tax Returnnot specified
+.TAX2009 - Turbotax 2009 Tax ReturnCommon
+.TB - Tabbery Tab Filenot specified
+.TBK - Toolbook filenot specified
+.TBL - Table of valuesUncommon
+.TBV - 3D Ultra Cool Data FileUncommon
+.TDA - Palm To-Do Filenot specified
+.TDB - eBay Turbo Lister Filenot specified
+.TE - Textease CT Database Filenot specified
+.TE3 - WinTrack Object Filenot specified
+.TEF - TablEdit Tablaturenot specified
+.TFD - Tape Format Requirements Documentnot specified
+.TFRD - Tape Image Format Requirements Documentnot specified
+.TFW - ArcView World file for TIF imagenot specified
+.TGV - Hewlett-Packard Calculator Graphnot specified
+.TIC - GoodSync Job ListAverage
+.TIX - DivX Video Download ActivationCommon
+.TJP - TaskJuggler Project Filenot specified
+.TK3 - TK3 Multimedia eBooknot specified
+.TKFL - TKLinks Saver Favorite Links Filenot specified
+.TLS - TuneUp Utilities Logon ScreenAverage
+.TMW - Translation Memory Data Filenot specified
+.TOPC - TopicCrunch Project Filenot specified
+.TPL - MetaTrader Template FileAverage
+.TPM - TeX Package ManagementUncommon
+.TPR - TMPGEnc ProjectAverage
+.TPS - Multi Channel Measurement Filenot specified
+.TRD - TrID Definitions Packagenot specified
+.TST - ExamView Test FileAverage
+.TSV - Tab Separated ValuesAverage
+.TTK - Translation Tool Kit Filenot specified
+.TWD - Tripwire System Files DatabaseUncommon
+.TXA - Midas ViewPoint Text Array Listnot specified
+.TXD - Game Texture Dictionarynot specified
+.TXF - Tax exchange formatnot specified
+.UDB - Microsoft Works FileAverage
+.UDEB - Debian Package Filenot specified
+.UGA - Ulead GIF Animator Project Filenot specified
+.ULD - Unified Luminaire Data FileUncommon
+.ULF - Universal List Filenot specified
+.ULZ - USBlyzer Data Capture Filenot specified
+.UPD - dBase Update FileAverage
+.UPI - Snooper Sat Nav GPS FileUncommon
+.UPOI - iGO Points of Interest Filenot specified
+.UVF - Uncertain Value Formatnot specified
+.UWL - WordPerfect User Word ListAverage
+.VBB - Backup FileUncommon
+.VBK - VitalSource Bookshelf eBookAverage
+.VBPF1 - Virtual Business - Personal Finance Data FileAverage
+.VCB - Smartype Macro Databasenot specified
+.VCD - VisualCADD Drawing FileAverage
+.VCF - vCard Electronic Business CardVery Common
+.VCM - Interwise Participant Recorded WebCast FileAverage
+.VCS - MS Outlook vCalendar Filenot specified
+.VF - Virtual Terrain FileUncommon
+.VMB - Quicken 2002 order filenot specified
+.VMT - Valve Material Filenot specified
+.VOI - VOI Group Filenot specified
+.VRD - Visio Report Definition Filenot specified
+.VSCONTENT - Visual Studio Content Filenot specified
+.VSD - Visio DrawingVery Common
+.VSV - Virtual Machine State Information Filenot specified
+.VSX - Visio Stencil XML Filenot specified
+.VTU - Visualization Toolkit Unstructured Points DataAverage
+.VTX - Visio Template XML Filenot specified
+.VWX - VectorWorks 2008 Design Documentnot specified
+.VXML - VoiceXML Filenot specified
+.W3X - Scenario Filenot specified
+.WAB - Microsoft Outlook Express Windows Address BookCommon
+.WB2 - QuattroPro for Windowsnot specified
+.WDQ - Offline Explorer Queue Filenot specified
+.WEA - Ecotect Weather FileAverage
+.WEB - Corel Xara Web DocumentAverage
+.WFM - dBASE Formnot specified
+.WGT - IMPS Data Filenot specified
+.WGT - XNBC Synaptic Weights Filenot specified
+.WINDOWSLIVECONTACT - Windows Live Contacts FileCommon
+.WIZ - Microsoft Office WizardAverage
+.WJR - ReGet Deluxe Data Filenot specified
+.WK! - Lotus 1-2-3 Spreadsheet Filenot specified
+.WK1 - Lotus 1-2-3 Spreadsheet Filenot specified
+.WK2 - Lotus 1-2-3 Spreadsheet Filenot specified
+.WK3 - Lotus 1-2-3 Spreadsheet Filenot specified
+.WK4 - Lotus 1-2-3 Spreadsheet FileUncommon
+.WK5 - Lotus 1-2-3 Spreadsheet Filenot specified
+.WKI - Lotus 1-2-3 Spreadsheet Filenot specified
+.WKS - Microsoft Works SpreadsheetAverage
+.WKU - Lotus 1-2-3 Spreadsheet Filenot specified
+.WMDB - Windows Media Player (v9) Library Databasenot specified
+.WPC - Pazzles Inspiration Studio - Pazzle Pattern Filenot specified
+.WPC - Windows 95 WordPad File ConverterAverage
+.WPF - WordPerfect Formnot specified
+.WRF - WebEx Recording Format FileAverage
+.WST - WordStar DocumentAverage
+.WTB - Win-Test Binary Log Filenot specified
+.WVX - Windows Media RedirectorAverage
+.WXS - Windows Installer XML Filenot specified
+.X3D - Xara3D Project FileAverage
+.XCM - Exported Concept Map FileAverage
+.XDP - XML Data PackageAverage
+.XEF - eManager Form Datanot specified
+.XEM - PowerDesigner Model definition Filenot specified
+.XFO - XSL-FO Formatted Formnot specified
+.XIP - Xbox Dashboard FileCommon
+.XL - Microsoft Excel for Apple Mac Spreadsheetnot specified
+.XLC - Microsoft Excel Chartnot specified
+.XLGC - ExpressK Database Filenot specified
+.XLR - Microsoft Works Spreadsheet FileCommon
+.XLS - MS Excel Spreadsheet FileVery Common
+.XLSB - Microsoft Office Excel (2007+) Non-XML Binary SpreadsheetVery Common
+.XLSM - Microsoft Office Excel (2007+) Spreadsheet (Macro Enabled)Common
+.XLSX - Microsoft Office Excel (2007+) SpreadsheetVery Common
+.XLS_ - Excel Spreadsheet Filenot specified
+.XLT - Microsoft Excel TemplateCommon
+.XLTM - Microsoft Office Excel (2007+) Template (Macro Enabled)Common
+.XLTX - Microsoft Office Excel (2007+) TemplateCommon
+.XLW - Microsoft Excel WorkbookAverage
+.XLW3 - Microsoft Excel Workbooknot specified
+.XLW4 - Microsoft Excel Workbooknot specified
+.XLW5 - Microsoft Excel Workbooknot specified
+.XLW_ - Microsoft Excel Workbooknot specified
+.XMCD - Mathcad Worksheet Filenot specified
+.XML - Extensible Markup LanguageVery Common
+.XMLPER - LeCroy Binary Waveform Filenot specified
+.XMPZ - Miradi XML Project Filenot specified
+.XPG - Autoplay Media Studio Exported Pagenot specified
+.XPJ - Micro Planner X-Pert Project FileUncommon
+.XPT - SAS Transport FileAverage
+.XRP - RationalPlan Project Filenot specified
+.XSL - XML Stylesheetnot specified
+.XSLT - XSL Transformationnot specified
+.XSN - Form Template FileAverage
+.XSPF - Shareable Playlist Format (XML)Common
+.XSX - XML Schema Designer (Visual Studio) FileCommon
+.XTM - Xtremsplit Data Filenot specified
+.XTP - XTree Data filenot specified
+.XXD - Brixx Planner Calendarnot specified
+.YAM - Yahoo! Auctions Datanot specified
+.ZDB - Quicken Intuit Online Filenot specified
+.ZDC - CD Catalog Expert Database Filenot specified
+.ZGEPROJ - ZGameEditor Project FileAverage
+.ZIX - Quicken Intuit On-line Filenot specified
+.ZPL - Zen Play ListAverage
+.ZPL - Zune MP3 Play ListAverage
+.ZTR - DNA Sequence Trace Data fileAverage
+.ZZZ - Micro Perfect Sleep Products.Average
+.^^^ - Pervasive SQL Database Filenot specified
+.~HM - HostMonitor Backup TestList Filenot specified

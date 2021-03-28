@@ -1,0 +1,108 @@
+.$ER - GroupWise Database Filenot specified
+.3DB - 3DMark Databasenot specified
+.4MP - 4-MP3 Database FileAverage
+.ACAD - AutoCAD Database Filenot specified
+.ACCDB - Microsoft Access Database FileVery Common
+.ACCDT - Microsoft Access 2007 Database Templatenot specified
+.ADE - Microsoft Access ProjectAverage
+.ADP - Microsoft Access ProjectAverage
+.APX - Borland C++ Appexpert databaseAverage
+.AWDB - Microsoft Works Database Filenot specified
+.BIB - Papyrus Databasenot specified
+.BTR - Database filenot specified
+.CDB - CardScan Databasenot specified
+.CLG - Disk Catalog databasenot specified
+.CMA - Database file in plain text formatAverage
+.CRP - dBase IV Encrypted databasenot specified
+.CWDB - Database Filenot specified
+.DB - Database fileVery Common
+.DB2 - dBASE II Databasenot specified
+.DB3 - dBASE III : DatabaseAverage
+.DB3 - Nokia Ovi Suite Database FleCommon
+.DBF - dBase Table File file formatAverage
+.DBS - SQL Windows databaseAverage
+.DBW - Microsoft Windows 9.x Database filenot specified
+.DBX - Database Indexnot specified
+.DCX - Microsofts Visual FoxPro Database Container Filenot specified
+.DF1 - Omnis7 and Omnis Studio Database Filenot specified
+.DF2 - Omnis7 and Omnis Studio Database Filenot specified
+.DF3 - Omnis7 and Omnis Studio Database Filenot specified
+.DF4 - Omnis7 and Omnis Studio Database Filenot specified
+.DNL - Comma Seperated Value File (Concordance Database)not specified
+.DSD - Diet Studio Database filenot specified
+.DTF - Database fileAverage
+.DTF - Symantec Q&A relational databasenot specified
+.FDB - Dynamics NAV DatabaseAverage
+.FP5 - FileMaker Pro 5&6 Database FileAverage
+.FP7 - FileMaker Pro 7+ Databasenot specified
+.FW2 - DatabaseAverage
+.FW3 - Databasenot specified
+.FW4 - Databasenot specified
+.GDB - Garmin MapSource DatabaseAverage
+.GDB - InterBase Database FileCommon
+.IND - Shared Database fileUncommon
+.INX - FoxBase Database Indexnot specified
+.INX - Kodicom Index DatabaseAverage
+.IPD - InstallPROG EDBS Install DatabaseUncommon
+.ITDB - iTunes Database Filenot specified
+.JOD - MS Jet OLE Databasenot specified
+.KDB - Encrypted Passwords Database Filenot specified
+.LACCDB - Microsoft Access Locked Database FileVery Common
+.LDB - TrueVector Log DatabaseAverage
+.LK - Database filenot specified
+.MDB - Microsoft Access DatabaseCommon
+.MDE - MS Access Database FileAverage
+.MDF - MS-SQL Master Database FileAverage
+.MDN - MS Access Blank Database Templatenot specified
+.MN4 - Microsoft Money Database (older version)not specified
+.MODB - CompuServe Modem Databasenot specified
+.MPD - Database filenot specified
+.NCB - Microsoft C++ Program Databasenot specified
+.NDB - NetOp databaseAverage
+.NDB - Network databasenot specified
+.NDF - SQL Server Second Database FileAverage
+.NDX - Database fileAverage
+.NS2 - Lotus Notes v2 DatabaseAverage
+.NS3 - Lotus Notes v3 Databasenot specified
+.NS4 - Lotus Notes v4 Databasenot specified
+.NS5 - Lotus Notes v5 DatabaseAverage
+.NSF - Lotus Notes DatabaseAverage
+.NTF - Lotus Notes Database TemplateAverage
+.OD1 - Omnis5 Database Filenot specified
+.OD2 - Omnis5 Database Filenot specified
+.OD3 - Omnis5 Database FileUncommon
+.OD4-9 - Omnis5 Database Filenot specified
+.ODB - ArcView : Object Database ASCII file (ODB format)not specified
+.OECL - Microsoft Database Cachenot specified
+.OIF - QuickBase Web-sharable Database Interchange Filenot specified
+.OV - Database filenot specified
+.PDB - Pegasus DataBasenot specified
+.PDB - Program DatabaseCommon
+.PDB - QuickPOS Database Filenot specified
+.PDT - Database filenot specified
+.PHD - PolyHedra Databasenot specified
+.PHO - Phone databaseAverage
+.PX - Primary database indexnot specified
+.RFP - RoboForm Password Database Filenot specified
+.RPD - Databasenot specified
+.RSD - RealSQL Database FileAverage
+.SD2 - SAS DatabaseAverage
+.SDB - SideKick 2 DatabaseAverage
+.SDB - Windows Compatibility Solution DatabaseAverage
+.SQL - Structured Query Language Data FileVery Common
+.SQLITE - SQLite Database Filenot specified
+.SSD - SAS databasenot specified
+.SVY - Database filenot specified
+.SWD - Schoolwide Database fileAverage
+.SWDB - Claris Works 3/4 Databasenot specified
+.TDB - Database FileAverage
+.THM - MS Clipart Gallery Databasenot specified
+.USR - User database filenot specified
+.WD2 - Database filenot specified
+.WDB - Microsoft Works DatabaseCommon
+.XG0 - Database Index; Paradox secondary index;not specified
+.XG1 - Database Index; Also XG2, XG3...not specified
+.XG2 - Database Index; Also XG3...not specified
+.XG3 - Database Index; Also XG4...not specified
+.XVU - BOClean Database Filenot specified
+.ZBD - ZoomBrowser Database Filenot specified

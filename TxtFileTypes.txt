@@ -1,0 +1,238 @@
+.1ST - Readme Text Filenot specified
+.ABW - AbiWord Document Filenot specified
+.ACT - FoxPro Documenting Wizard Action Diagramnot specified
+.ADT - AutoCAD Audit Lognot specified
+.AIM - AIMMS ASCII Model Filenot specified
+.ANS - ANSI Text filenot specified
+.ASC - ASCII text filenot specified
+.ASC - AutoDesk ASCII Export Filenot specified
+.ASCII - ASCII Text Filenot specified
+.ATY - Association Placeholder Filenot specified
+.AZW - Amazon Kindle eBook Reader Filenot specified
+.BAD - Microsoft Exchange Badmail Filenot specified
+.BBS - Bulletin Board Sytem Text FileUncommon
+.BDP - Microsoft Exchange Diagnostic Messagenot specified
+.BDR - Microsoft Exchange - Non-Delivery Report Filenot specified
+.BEAN - Bean Rich Text Documentnot specified
+.BIB - Bibliography Document Filenot specified
+.BLG - BibTeX LogAverage
+.BNA - Barna Documentnot specified
+.BOC - EasyWord Big Documentnot specified
+.CHARSET - Character Setnot specified
+.CHORD - Song Chords Filenot specified
+.CRD - Guitar Tablature Filenot specified
+.CRWL - Crawl Filenot specified
+.CYI - Clustify Input Filenot specified
+.DBT - dBase Text MemoAverage
+.DCT - Visual Foxpro Database Containernot specified
+.DGS - Dagesh Pro Document Filenot specified
+.DIZ - Description In Zipfilenot specified
+.DNE - Netica Text Filenot specified
+.DOC - Microsoft Word DocumentVery Common
+.DOC - Microsoft WordPad DocumentAverage
+.DOCM - Microsoft Office Word (2007+) Document (Macro Enabled)Common
+.DOCX - Microsoft Office Word (2007+) DocumentVery Common
+.DOT - Microsoft Word Document TemplateCommon
+.DOTM - Microsoft Office Word (2007+) Template (Macro Enabled)Common
+.DOTX - Microsoft Office Word (2007+) TemplateCommon
+.DVI - TeX/LaTeX Device Independent Documentnot specified
+.DX - DEC WPS Plus Documentnot specified
+.EMAIL - Microsoft Outlook Express mail messagenot specified
+.EMLX - Mail Messagenot specified
+.ERR - Error Message Log Filenot specified
+.ERR - FoxPro Compilation Error filenot specified
+.ETF - ENIGMA Transportable Filenot specified
+.ETF - Enriched Text FormatAverage
+.ETX - Structure Enhanced Textnot specified
+.EUC - Extended Unix Code Filenot specified
+.FAQ - Frequently Asked Questions Documentnot specified
+.FB2 - FictionBook 2.0 Filenot specified
+.FBL - CADfix Command Level Log Filenot specified
+.FDF - Acrobat Forms Data Formatnot specified
+.FDR - Final Draft Documentnot specified
+.FDS - Final Draft Secure Copy Filenot specified
+.FES - 3D Topicscape Fileless Occurrence Placeholdernot specified
+.FLR - Decompiled Flash ActionScript Filenot specified
+.FPT - FileMaker Pro Memo Filenot specified
+.FPT - Visual FoxPro Memo Fields FileAverage
+.FRT - Visual FoxPro Report Menunot specified
+.FXC - FilePackager Configurationnot specified
+.GIO - Adagio Score Filenot specified
+.GPN - GlidePlan Map Documentnot specified
+.GSD - Generic Station Description Filenot specified
+.GTHR - Gather Log Filenot specified
+.GTX - GX Text Word Pad FileRare
+.GV - GraphcViz Filenot specified
+.H1S - Assistance Platform Help FileAverage
+.HHT - Help and Support Center HHT Filenot specified
+.HKM - Havok MovieAverage
+.HS - Java HelpSet Filenot specified
+.HWP - Hangul Text Document FileAverage
+.HZ - Hanzi (Chinese) Text Filenot specified
+.IDX - Outlook Express Mailbox Indexnot specified
+.IIL - CleanSweep Installation Lognot specified
+.IMAPMBOX - IMAP Mailboxnot specified
+.IPF - OS/2 Help Filenot specified
+.JIS - Japanese Industry Standard Textnot specified
+.JP1 - Japanese (Romaji) Text Filenot specified
+.KLG - KOFIA Lognot specified
+.KLG - Log Filenot specified
+.KML - Keyhole Markup Language FileAverage
+.KNT - KeyNote Note Filenot specified
+.KON - Yahoo! Widget XML Filenot specified
+.KWD - Keyword Filenot specified
+.LATEX - LaTeX Source Documentnot specified
+.LBT - FoxPro Labelnot specified
+.LIC - License FileCommon
+.LIS - Structured Query Report (SQR) Outputnot specified
+.LIT - Microsoft Reader eBook FileVery Common
+.LOG - Log FileVery Common
+.LP2 - iLEAP Word Processing Documentnot specified
+.LRC - Lyrics Filenot specified
+.LRF - Sony eBook Reader Documentnot specified
+.LRX - Sony eBooknot specified
+.LSD - Lingvo Dictionary Filenot specified
+.LST - List FileAverage
+.LST - Visual FoxPro Documenting Wizard Listnot specified
+.LTR - Letter Filenot specified
+.LUE - Norton LiveUpdate Log Filenot specified
+.LUF - Lipikar Uniform Format Filenot specified
+.LWP - Lotus Wordpro 96/97 FileAverage
+.LXFML - LEGO Digital Designer XML Filenot specified
+.LYT - TurboTax Install Log Filenot specified
+.LYX - Latex/Lyx Document FileAverage
+.MBOX - Mailbox filenot specified
+.ME - Readme FileAverage
+.MELL - Mellel Word Processing Filenot specified
+.MELLEL - Mellel Word Processing Documentnot specified
+.MNT - FoxPro Menu filenot specified
+.MSG - Microsoft Mail MessageVery Common
+.MW - MacWrite II Text Documentnot specified
+.MWD - MarinerWrite Documentnot specified
+.MWP - Lotus Word Pro SmartMaster Filenot specified
+.MXI - Macromedia Extension InformationAverage
+.NFO - Information Filenot specified
+.NOTES - Memento Notes Filenot specified
+.NOW - ReadMe Text Filenot specified
+.NWCTXT - NoteWorthy Composer 2 Text Filenot specified
+.NWS - Newsgroup Article Message FileAverage
+.NZB - NewzBin Filenot specified
+.OCR - FAXGrapper Fax-to-Text Filenot specified
+.ODM - OpenDocument Master Documentnot specified
+.ODT - OpenOffice/StarOffice OpenDocument (V.2) Text DocVery Common
+.OFL - OtsAV PlayList Filenot specified
+.OGS - Origin LabTalk Script FileUncommon
+.OPF - Open eBook Filenot specified
+.OPML - Outline Processor Markup Language (OPML) Filenot specified
+.ORT - Rich Text Editor Documentnot specified
+.OTT - OpenDocument Text Document Templatenot specified
+.P65 - PageMaker Document FileAverage
+.P7S - PKCS #7 Digitally Signed Messagenot specified
+.PAGES - Pages DocumentVery Common
+.PDG - SSReader eBooknot specified
+.PFX - First Choice Word Processing Documentnot specified
+.PJT - Visual FoxPro Memo Filenot specified
+.PM6 - PageMaker 6 DocumentUncommon
+.PRT - Printer Output Filenot specified
+.PSW - Pocket Word DocumentCommon
+.PVJ - ProofVision Job Ticket Filenot specified
+.PVM - Photo Video Index Filenot specified
+.PWI - Word Mobile Documentnot specified
+.QDL - QDL Program Codenot specified
+.RAD - Radar ViewPoint Data Filenot specified
+.README - Readme Text Filenot specified
+.RNG - RELAX NG Filenot specified
+.RPT - Report Filenot specified
+.RSM - Resume Filenot specified
+.RST - reStructuredText Filenot specified
+.RTD - RagTime Examples Render Filenot specified
+.RTF - Rich Text FormatVery Common
+.RTFD - Rich Text Format Directory Filenot specified
+.RTX - Rich Text Documentnot specified
+.RUN - Runscanner Scan Filenot specified
+.RZK - File Crypt Password Filenot specified
+.RZN - Red Zion Notes Filenot specified
+.SAF - SafeText Filenot specified
+.SAFETEXT - SafeText Filenot specified
+.SAM - Ami Pro Documentnot specified
+.SAVE - Nano Temporary Save Filenot specified
+.SCC - Scenarist Closed Caption Filenot specified
+.SCM - Schema Filenot specified
+.SCT - FoxPro Forms MemoAverage
+.SCW - Movie Magic Screenwriter Documentnot specified
+.SDM - StarOffice Mail Messagenot specified
+.SDW - StarOffice Writer Text Document Filenot specified
+.SFV - Backup/Archive Checksum File (Internet Download)Common
+.SGM - SGML Filenot specified
+.SIG - Signature FileCommon
+.SLS - Image Slideshow Playlistnot specified
+.SMS - SMS Exported Text Messagenot specified
+.SRT - Video/Movie Subtitle FileVery Common
+.SSA - SubStation Alpha Video Subtitle Filenot specified
+.STRINGS - Text Strings Filenot specified
+.STW - StarOffice Document Templatenot specified
+.STY - LaTeX Style Definition Filenot specified
+.SXW - Staroffice Word DocumentAverage
+.TAB - Guitar Tablature Filenot specified
+.TAB - Tab Delimited Data Filenot specified
+.TDF - XServe Test Definition Filenot specified
+.TEX - LaTeX Sourcenot specified
+.TEXT - ASCII TextAverage
+.TEXTCLIPPING - OS X Text Clipping FileAverage
+.THP - TurboTax Filenot specified
+.TLB - VAX Text Library DocumentAverage
+.TM - TeXmacs Documentnot specified
+.TMX - Translation Memory eXchange Filenot specified
+.TPC - Topicscape Connection Placeholder Filenot specified
+.TR2 - TomeRaider eBooknot specified
+.TR3 - TomeRaider eBook Filenot specified
+.TVJ - TrueView Job Ticket Filenot specified
+.TWP - Complete Works DocumentRare
+.TXT - Text FileVery Common
+.U3I - U3 Application Information Filenot specified
+.UNAUTH - SiteMinder Unauthorized Message Filenot specified
+.UNX - Unix Text FileAverage
+.UPD - Updated Program Datanot specified
+.UTF8 - Unicode UTF8-Encoded Textnot specified
+.UTXT - Unicode Text Filenot specified
+.VCT - Microsoft FoxPro Class LibraryAverage
+.VIM - Vim Script fileUncommon
+.VNT - Mobile Phone vNote Filenot specified
+.VW3 - VolksWriter Text FileAverage
+.WBK - WordPerfect Workbook DocumentAverage
+.WCF - WebEx Saved Chat Sessionnot specified
+.WGZ - Nokia S60 Web Runtime Widget Packagenot specified
+.WN - WriteNow Text filenot specified
+.WP - WordPerfect Document Filenot specified
+.WP4 - WordPerfect Documentnot specified
+.WP5 - WordPerfect Documentnot specified
+.WP6 - WordPerfect Documentnot specified
+.WP7 - WordPerfect 7 Documentnot specified
+.WPA - ACT! Word Processor Documentnot specified
+.WPD - 602Text Document Filenot specified
+.WPD - ACT! 2 Word Processor Documentnot specified
+.WPD - WordPerfect DocumentCommon
+.WPL - DEC WPS Plus Text Documentnot specified
+.WPS - Kingsoft Writer Documentnot specified
+.WPS - Microsoft Works Text DocumentCommon
+.WPT - WordPerfect Templatenot specified
+.WRD - Text Documentnot specified
+.WRI - Windows Write Documentnot specified
+.WSD - WordStar Documentnot specified
+.WSH - Windows Script Host Settings FileAverage
+.WTX - WinTopo Project Text fileAverage
+.XDL - Oracle Expert Definition Language Filenot specified
+.XDL - XML Schemanot specified
+.XFD - XML Form in XFD FormatAverage
+.XLF - XLIFF Documentnot specified
+.XWP - Crosstalk Session Filenot specified
+.XWP - Xerox Writer Text Documentnot specified
+.XWP - XMLwriter Project Filenot specified
+.XY - XYWrite v1 Document Filenot specified
+.XY3 - XyWrite 3 Document Filenot specified
+.XYP - XyWrite Plus Document Filenot specified
+.XYW - XyWrite Windows Documentnot specified
+.YBK - YanCEyWare Reader eBooknot specified
+.YML - YAML Documentnot specified
+.ZW - Chinese Textnot specified
+._NWS - Newsgroup Message Copy FileAverage
